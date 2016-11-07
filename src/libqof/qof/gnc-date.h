@@ -167,6 +167,13 @@ typedef enum
  *  \return A struct tm*, allocated on the heap. Must be freed with gnc_tm_free().
  *  The time is adjusted for the current local time zone.
  */
+typedef enum
+{
+    QOF_CALENDAR_TYPE_GREGORIAN,  /**< Gregorian Calendar */
+    QOF_CALENDAR_TYPE_JALALI  /**< Jalali Calendar */
+} QofCalendarType;
+#define CALENDAR_TYPE_FIRST QOF_CALENDAR_TYPE_GREGORIAN
+#define CALENDAR_TYPE_LAST  QOF_CALENDAR_TYPE_JALALI
 struct tm* gnc_localtime (const time64 *secs);
 
 /** \brief fill out a time struct from a 64-bit time value adjusted for the current time zone.
@@ -421,6 +428,32 @@ void qof_date_format_set(QofDateFormat df);
  *
  *  @return A formatting string that will print a date in the
  *  requested style  */
+
+/** \name QofCalendarType functions */
+// @{
+/** The qof_calendar_type_get routine returns the calendar type that
+ *  the date printing will use when printing a date, and the scanning
+ *  routines will assume when parsing a date.
+ * @returns: the one of the enumerated calendar types.
+ */
+QofCalendarType qof_calendar_type_get(void);
+
+/**
+ * The qof_calendar_type_set() routine sets date format to one of
+ *    Jalali,Greegorian.  Checks to make sure it's a legal value.
+ *    Args: QofCalendarType: enumeration indicating preferred format
+ */
+void qof_calendar_type_set(QofCalendarType df);
+
+/** This function returns a strftime formatting string for printing an
+ *  all numeric date (e.g. 2005-09-14).  The string returned is based
+ *  upon the location specified.
+ *
+ *  @param df The date style (us, uk, iso, etc) that should be provided.
+ *
+ *  @return A formatting string that will print a date in the
+ *  requested style  */
+
 const gchar *qof_date_format_get_string(QofDateFormat df);
 
 /** This function returns a strftime formatting string for printing a
@@ -510,6 +543,19 @@ gsize qof_strftime(gchar *buf, gsize max, const gchar *format,
  **/
 size_t qof_print_date_dmy_buff (gchar * buff, size_t buflen, int day, int month, int year);
 
+/**
+ * @details this function created to generate a masked Calender Date
+ * @param buff
+ * @param buflen
+ * @param day
+ * @param month
+ * @param year
+ * @return
+ * @todo compleate comment please!
+ *
+ */
+size_t qof_print_masked_date_dmy_buff (gchar * buff, size_t buflen, int day, int month, int year);
+
 /** Convenience: calls through to qof_print_date_dmy_buff(). **/
 size_t qof_print_date_buff (char * buff, size_t buflen, time64 secs);
 
@@ -528,6 +574,9 @@ char * qof_print_date (time64 secs);
  *      or qof_print_date() instead.
  * **/
 const char * gnc_print_date(Timespec ts);
+const char * gnc_print_masked_date(Timespec ts);
+
+gboolean  gnc_use_maske();
 
 /* ------------------------------------------------------------------ */
 /* time printing utilities */

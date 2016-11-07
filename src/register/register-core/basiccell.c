@@ -74,7 +74,9 @@ gnc_basic_cell_clear (BasicCell *cell)
     cell->conditionally_changed = FALSE;
 
     cell->value = NULL;
+    cell->real_value = NULL;
     cell->value_chars = 0;
+    cell->real_value_chars = 0;
 
     cell->set_value = NULL;
     cell->enter_cell = NULL;
@@ -86,6 +88,8 @@ gnc_basic_cell_clear (BasicCell *cell)
     cell->gui_destroy = NULL;
 
     cell->is_popup = FALSE;
+
+    cell->is_masked_value = FALSE;
 
     cell->gui_private = NULL;
 
@@ -273,4 +277,26 @@ gnc_basic_cell_set_value_internal (BasicCell *cell, const char *value)
     g_free (cell->value);
     cell->value = g_strdup (value);
     cell->value_chars = g_utf8_strlen(value, -1);
+}
+
+void
+gnc_basic_cell_set_masked_value_internal (BasicCell *cell, const char *value,const char *masked_value)
+{
+    if (value == NULL)
+        value = "";
+
+    /* If the caller tries to set the value with our own value then do
+     * nothing because we have no work to do (or, at least, all the work
+     * will result in the status-quo, so why do anything?)  See bug
+     * #103174 and the description in the changelog on 2003-09-04.
+     */
+    if (cell->real_value == value)
+        return;
+
+    g_free (cell->value);
+    cell->value = g_strdup (masked_value);
+    cell->value_chars = g_utf8_strlen(masked_value, -1);
+    g_free (cell->real_value);
+    cell->real_value = g_strdup (value);
+    cell->real_value_chars = g_utf8_strlen(value, -1);
 }

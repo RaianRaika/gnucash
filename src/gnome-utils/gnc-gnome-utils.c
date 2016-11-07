@@ -117,6 +117,35 @@ gnc_commodity_help_cb (void)
     gnc_gnome_help (HF_HELP, HL_COMMODITY);
 }
 
+
+/* gnc_configure_calendar_type
+ *    sets calendarType to the current value on the scheme side
+ *
+ * Args: Nothing
+ * Returns: Nothing
+ */
+static void
+gnc_configure_calendar_type (void)
+{
+    QofCalendarType df = gnc_prefs_get_int(GNC_PREFS_GROUP_GENERAL,
+                                         GNC_PREF_CALANDER_TYPE);
+
+    /* Only two calendar support now
+     * Gregorian -> default
+     * Jalali -> new
+     * supported for date entry.
+     */
+    if ((df != QOF_CALENDAR_TYPE_GREGORIAN)
+        && (df != QOF_CALENDAR_TYPE_JALALI))
+    {
+        PERR("Incorrect calendar type");
+        return;
+    }
+
+    qof_calendar_type_set(df);
+}
+
+
 /* gnc_configure_date_format
  *    sets dateFormat to the current value on the scheme side
  *
@@ -687,11 +716,16 @@ gnc_gui_init(void)
 
     gnc_ui_util_init();
     gnc_configure_date_format();
+    gnc_configure_calendar_type();
     gnc_configure_date_completion();
 
     gnc_prefs_register_cb (GNC_PREFS_GROUP_GENERAL,
                            GNC_PREF_DATE_FORMAT,
                            gnc_configure_date_format,
+                           NULL);
+    gnc_prefs_register_cb (GNC_PREFS_GROUP_GENERAL,
+                           GNC_PREF_CALANDER_TYPE,
+                           gnc_configure_calendar_type,
                            NULL);
     gnc_prefs_register_cb (GNC_PREFS_GROUP_GENERAL,
                            GNC_PREF_DATE_COMPL_THISYEAR,

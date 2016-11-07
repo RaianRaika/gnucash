@@ -210,6 +210,8 @@ struct basic_cell
     gchar *cell_type_name;
     char * value;                  /** current value */
     guint value_chars;           /** number of characters in value */
+    char * real_value;
+    guint real_value_chars;
 
     gboolean changed;               /** true if value modified */
     gboolean conditionally_changed; /** true if value modified conditionally */
@@ -235,6 +237,7 @@ struct basic_cell
     gboolean expandable;     /** can fill with extra space */
     gboolean span;           /** can span multiple columns */
     gboolean is_popup;       /** is a popup widget */
+    gboolean is_masked_value; /** use for setioation that cell masked to an other value **/
 
     gpointer gui_private;    /** general hook for gui-private data */
 };
@@ -276,6 +279,9 @@ void         gnc_basic_cell_set_conditionally_changed (BasicCell *cell,
 /* for sub-class use only */
 void         gnc_basic_cell_set_value_internal (BasicCell *bcell,
         const char *value);
+void         gnc_basic_cell_set_masked_value_internal (BasicCell *bcell,
+        const char *value,const char  *masked_value);
+
 
 /** @} @} */
 #endif /* BASIC_CELL_H */

@@ -26,6 +26,8 @@ extern "C"
 {
 #include "config.h"
 #include "platform.h"
+#include "core-utils/gnc-jalali.h"
+#include "gnc-date.h"
 }
 #include <boost/date_time/gregorian/gregorian.hpp>
 #include <boost/date_time/posix_time/posix_time.hpp>
@@ -69,13 +71,77 @@ public:
     GncDateImpl(Date d) : m_greg(d) {}
 
     void today() { m_greg = boost::gregorian::day_clock::local_day(); }
+    masked_date_structure convert_to_masked_date();
+    std::string format_masked_date(const char* format) ;
     ymd year_month_day() const;
     std::string format(const char* format) const;
     std::string format_zulu(const char* format) const;
 private:
     Date m_greg;
+    masked_date_structure masked_date;
 };
 
+masked_date_structure
+GncDateImpl::convert_to_masked_date()
+{
+
+    int y;
+    int m ;
+    int d;
+
+    switch (qof_calendar_type_get())
+    {
+        case QOF_CALENDAR_TYPE_JALALI:
+        gnc_gregorian_to_jalali(&y,&m,&d,m_greg.year(),m_greg.month(),m_greg.day());
+            break;
+        default:
+            y=m_greg.year();
+            m=m_greg.month();
+            d=m_greg.day();
+    }
+
+    this->masked_date.year=y;
+    this->masked_date.month=m;
+    this->masked_date.day=d;
+    masked_date.calender_type=1;// for example 1 is jalali
+    return masked_date;
+}
+
+std::string
+GncDateImpl::format_masked_date(const char *format)  {
+
+
+    std::string str;
+    for ( int i=0;i< sizeof(format);i++)
+    {
+        /*if( i > sizeof(format)) {
+            str.append('\0');
+        }
+        else */if( format[i] == '%') {
+            continue;
+        }
+        else if ( format[i] == 'd' || format[i] == 'D') {
+            str.append(boost::lexical_cast<std::string>(masked_date.day));
+
+            // work on day
+        }
+        else if (format[i] == 'm' || format[i] == 'M') {
+            str.append(boost::lexical_cast<std::string>(masked_date.month));
+
+        }
+        else if ( format[i] =='y' || format[i] == 'Y') {
+            str.append(boost::lexical_cast<std::string>(masked_date.year));
+
+        }
+        else {
+            str+=format[i];
+
+        }
+    }
+
+    return str;
+
+}
 ymd
 GncDateImpl::year_month_day() const
 {
@@ -149,6 +215,9 @@ public:
     std::unique_ptr<GncDateImpl> date() const;
     std::string format(const char* format) const;
     std::string format_zulu(const char* format) const;
+    std::string format_masked(const char* format) const;
+    
+
 private:
     LDT m_time;
 };
@@ -257,6 +326,56 @@ GncDateTimeImpl::format(const char* format) const
     ss << m_time;
     return ss.str();
 }
+std::string
+GncDateTimeImpl::format_masked(const char* format) const
+{
+    std::string str;
+    int c_y;
+    int c_m;
+    int c_d;
+    switch (qof_calendar_type_get())
+    {
+        case QOF_CALENDAR_TYPE_JALALI:
+            gnc_gregorian_to_jalali(&c_y,&c_m,&c_d,m_time.date().year(),m_time.date().month(),m_time.date().day());
+            break;
+        default:
+            c_y=m_time.date().year();
+            c_m=m_time.date().month();
+            c_d=m_time.date().day();
+            break;
+    }
+
+
+
+    for ( int i=0;i< sizeof(format);i++)
+    {
+        /*if( i > sizeof(format)) {
+            str.append('\0');
+        }
+        else */if( format[i] == '%') {
+            continue;
+        }
+        else if ( format[i] == 'd' || format[i] == 'D') {
+            str.append(boost::lexical_cast<std::string>(c_d));
+
+            // work on day
+        }
+        else if (format[i] == 'm' || format[i] == 'M') {
+            str.append(boost::lexical_cast<std::string>(c_m));
+
+        }
+        else if ( format[i] =='y' || format[i] == 'Y') {
+            str.append(boost::lexical_cast<std::string>(c_y));
+
+        }
+        else {
+            str+=format[i];
+
+        }
+    }
+
+    return str;
+}
 
 std::string
 GncDateTimeImpl::format_zulu(const char* format) const
@@ -289,6 +408,14 @@ GncDate::today()
     m_impl->today();
 }
 
+masked_date_structure
+GncDate::convert_to_masked_calender() {
+    return m_impl->convert_to_masked_date();
+}
+std::string
+GncDate::format_masked_date(const char *format) {
+    return m_impl->format_masked_date(format);
+}
 std::string
 GncDate::format(const char* format)
 {
@@ -352,8 +479,13 @@ GncDateTime::format(const char* format) const
     return m_impl->format(format);
 }
 
+
 std::string
 GncDateTime::format_zulu(const char* format) const
 {
     return m_impl->format_zulu(format);
+}
+
+std::string GncDateTime::format_masked(const char *string) {
+    return m_impl->format_masked(string);
 }

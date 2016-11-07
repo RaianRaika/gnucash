@@ -84,6 +84,9 @@ const char *gnc_default_strftime_date_format =
 static QofDateFormat dateFormat = QOF_DATE_FORMAT_LOCALE;
 static QofDateFormat prevQofDateFormat = QOF_DATE_FORMAT_LOCALE;
 
+static QofCalendarType calendarType = QOF_CALENDAR_TYPE_GREGORIAN;
+static QofCalendarType prevQofCalendarType = QOF_CALENDAR_TYPE_GREGORIAN;
+
 static QofDateCompletion dateCompletion = QOF_DATE_COMPLETION_THISYEAR;
 static int dateCompletionBackMonths = 6;
 
@@ -501,6 +504,30 @@ void qof_date_format_set(QofDateFormat df)
     return;
 }
 
+QofCalendarType qof_calendar_type_get (void)
+{
+    return calendarType;
+}
+
+void qof_calendar_type_set(QofCalendarType df)
+{
+    if (df >= CALENDAR_TYPE_FIRST && df <= CALENDAR_TYPE_LAST)
+    {
+        prevQofCalendarType = calendarType;
+        calendarType = df;
+    }
+    else
+    {
+        /* hack alert - Use a neutral default. */
+        PERR("non-existent calendar type set attempted. Setting Gregorian Calendar");
+        prevQofCalendarType = calendarType;
+        calendarType = QOF_CALENDAR_TYPE_GREGORIAN;
+    }
+
+    return;
+}
+
+
 /* set date completion method
 
 set dateCompletion to one of QOF_DATE_COMPLETION_THISYEAR (for
@@ -605,12 +632,42 @@ qof_print_date_dmy_buff (char * buff, size_t len, int day, int month, int year)
 }
 
 size_t
+qof_print_masked_date_dmy_buff (char * buff, size_t len, int day, int month, int year)
+{
+    if (!buff) return 0;
+
+    GncDate date(year, month, day);
+    date.convert_to_masked_calender();
+
+    std::string str = date.format_masked_date(qof_date_format_get_string(dateFormat));
+    strncpy(buff, str.c_str(), len);
+    if (str.length() >= len)
+        buff[len - 1] = '\0';
+    return strlen(buff);
+}
+
+size_t
 qof_print_date_buff (char * buff, size_t len, time64 t)
 {
     if (!buff) return 0;
 
     GncDateTime gncdt(t);
-    std::string str = gncdt.format(qof_date_format_get_string(dateFormat));
+    std::string str;
+    // TODO add a function to find the true way of printing 
+    if ( gnc_use_maske())
+    {
+        // print masked date
+       str= gncdt.format_masked(qof_date_format_get_string(dateFormat));
+
+        
+    } 
+    else
+    {
+        str = gncdt.format(qof_date_format_get_string(dateFormat));    
+    }
+    
+    
+    
     strncpy(buff, str.c_str(), len);
     if (str.length() >= len)
 	buff[len - 1] = '\0';
@@ -652,6 +709,25 @@ gnc_print_date (Timespec ts)
     return buff;
 }
 
+const char *
+gnc_print_masked_date (Timespec ts)
+{
+    static char buff[MAX_DATE_LENGTH];
+    time64 t;
+
+    memset (buff, 0, sizeof (buff));
+    t = ts.tv_sec + (time64)(ts.tv_nsec / 1000000000.0);
+
+    qof_print_date_buff (buff, MAX_DATE_LENGTH, t);
+
+    return buff;
+}
+
+gboolean
+gnc_use_maske()
+{
+    return calendarType != QOF_CALENDAR_TYPE_GREGORIAN;
+}
 /* ============================================================== */
 
 /* return the greatest integer <= a/b; works for b > 0 and positive or

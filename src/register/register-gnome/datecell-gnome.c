@@ -37,6 +37,8 @@
 #include <string.h>
 #include <time.h>
 #include <gdk/gdkkeysyms.h>
+#include <datecell.h>
+#include <gnc-jalali.h>
 
 #include "datecell.h"
 #include "dialog-utils.h"
@@ -159,6 +161,30 @@ gnc_parse_date (struct tm *parsed, const char * datestr)
 	g_date_free (d);
     }
 
+    // todo change this part this condition is not true!
+    if( gnc_use_maske() && year > 1000 && year < 2000)
+    {
+        int g_d;
+        int g_m;
+        int g_y;
+
+        switch (qof_calendar_type_get())
+        {
+            case QOF_CALENDAR_TYPE_JALALI:
+                gnc_jalali_to_gregorian(&g_y,&g_m,&g_d,year,month,day);
+                break;
+            default:
+                g_d=day;
+                g_m=month;
+                g_y=year;
+                break;
+        }
+
+        day=g_d;
+        month=g_m;
+        year=g_y;
+    }
+
     parsed->tm_mday = day;
     parsed->tm_mon  = month - 1;
     parsed->tm_year = year - 1900;
@@ -177,10 +203,21 @@ gnc_date_cell_print_date (DateCell *cell, char *buff)
 {
     PopBox *box = cell->cell.gui_private;
 
-    qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
-                             box->date.tm_mday,
-                             box->date.tm_mon + 1,
-                             box->date.tm_year + 1900);
+    if( cell->cell.is_masked_value)
+    {
+        qof_print_masked_date_dmy_buff(buff, MAX_DATE_LENGTH,
+                                       box->date.tm_mday,
+                                       box->date.tm_mon + 1,
+                                       box->date.tm_year + 1900);
+    }
+    else
+    {
+        qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
+                                 box->date.tm_mday,
+                                 box->date.tm_mon + 1,
+                                 box->date.tm_year + 1900);
+    }
+
 }
 
 static void
@@ -193,6 +230,8 @@ gnc_date_cell_init (DateCell *cell)
     gnc_basic_cell_init (&(cell->cell));
 
     cell->cell.is_popup = TRUE;
+
+    cell->cell.is_masked_value = gnc_use_maske();
 
     cell->cell.destroy = gnc_date_cell_destroy;
 
@@ -424,12 +463,27 @@ gnc_date_cell_set_value_secs (DateCell *cell, time64 secs)
 
     gnc_localtime_r (&secs, &(box->date));
 
-    qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
-                             box->date.tm_mday,
-                             box->date.tm_mon + 1,
-                             box->date.tm_year + 1900);
+    if( cell->cell.is_masked_value)
+    {
+        char masked_buff[DATE_BUF];
+        qof_print_masked_date_dmy_buff (masked_buff, MAX_DATE_LENGTH,
+                                        box->date.tm_mday,
+                                        box->date.tm_mon + 1,
+                                        box->date.tm_year + 1900);
+        qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
+                                 box->date.tm_mday,
+                                 box->date.tm_mon + 1,
+                                 box->date.tm_year + 1900);
+        gnc_basic_cell_set_masked_value_internal (&cell->cell, buff,masked_buff);
+    } else
+    {
+        qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
+                                 box->date.tm_mday,
+                                 box->date.tm_mon + 1,
+                                 box->date.tm_year + 1900);
+        gnc_basic_cell_set_value_internal (&cell->cell, buff);
+    }
 
-    gnc_basic_cell_set_value_internal (&cell->cell, buff);
 
     if (!box->date_picker)
         return;
@@ -724,7 +778,11 @@ gnc_date_cell_get_date (DateCell *cell, Timespec *ts)
     if (!cell || !ts)
         return;
 
-    gnc_parse_date (&(box->date), cell->cell.value);
+    if( cell->cell.real_value != NULL && cell->cell.is_masked_value)
+        gnc_parse_date (&(box->date), cell->cell.real_value);
+    else
+        gnc_parse_date (&(box->date), cell->cell.value);
+
 
     ts->tv_sec = gnc_mktime (&box->date);
     ts->tv_nsec = 0;
@@ -739,12 +797,27 @@ gnc_date_cell_set_value_internal (BasicCell *_cell, const char *str)
 
     gnc_parse_date (&(box->date), str);
 
-    qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
-                             box->date.tm_mday,
-                             box->date.tm_mon + 1,
-                             box->date.tm_year + 1900);
+    if( cell->cell.is_masked_value)
+    {
+        char masked_buff[DATE_BUF];
+        qof_print_masked_date_dmy_buff (masked_buff, MAX_DATE_LENGTH,
+                                 box->date.tm_mday,
+                                 box->date.tm_mon + 1,
+                                 box->date.tm_year + 1900);
+        qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
+                                 box->date.tm_mday,
+                                 box->date.tm_mon + 1,
+                                 box->date.tm_year + 1900);
+        gnc_basic_cell_set_masked_value_internal (_cell, buff,masked_buff);
+    } else
+    {
+        qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
+                                 box->date.tm_mday,
+                                 box->date.tm_mon + 1,
+                                 box->date.tm_year + 1900);
+        gnc_basic_cell_set_value_internal (_cell, buff);
+    }
 
-    gnc_basic_cell_set_value_internal (_cell, buff);
 
     if (!box->date_picker)
         return;
