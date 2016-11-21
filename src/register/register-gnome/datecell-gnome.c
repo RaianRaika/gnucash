@@ -281,7 +281,7 @@ date_picked_cb (GNCDatePicker *gdp, gpointer data)
     guint day, month, year;
     char buffer[DATE_BUF];
 
-    gtk_calendar_get_date (gdp->calendar, &year, &month, &day);
+    gnc_calendar_get_date (gdp->calendar, &year, &month, &day);
 
     qof_print_date_dmy_buff (buffer, MAX_DATE_LENGTH, day, month + 1, year);
 
@@ -301,7 +301,7 @@ date_selected_cb (GNCDatePicker *gdp, gpointer data)
     guint day, month, year;
     char buffer[DATE_BUF];
 
-    gtk_calendar_get_date (gdp->calendar, &year, &month, &day);
+    gnc_calendar_get_date (gdp->calendar, &year, &month, &day);
 
     qof_print_date_dmy_buff (buffer, MAX_DATE_LENGTH, day, month + 1, year);
 
@@ -540,10 +540,20 @@ gnc_date_cell_direct_update (BasicCell *bcell,
     if (!gnc_handle_date_accelerator (event, &(box->date), bcell->value))
         return FALSE;
 
-    qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
-                             box->date.tm_mday,
-                             box->date.tm_mon + 1,
-                             box->date.tm_year + 1900);
+    if( cell->cell.is_masked_value)
+    {
+        qof_print_masked_date_dmy_buff(buff, MAX_DATE_LENGTH,
+                                       box->date.tm_mday,
+                                       box->date.tm_mon + 1,
+                                       box->date.tm_year + 1900);
+    }
+    else
+    {
+        qof_print_date_dmy_buff (buff, MAX_DATE_LENGTH,
+                                 box->date.tm_mday,
+                                 box->date.tm_mon + 1,
+                                 box->date.tm_year + 1900);
+    }
 
     gnc_basic_cell_set_value_internal (&cell->cell, buff);
 

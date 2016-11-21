@@ -25,6 +25,7 @@
 #include <glib.h>
 
 #include "gnc-gdate-utils.h"
+#include "gnc-jalali.h"
 
 void
 gnc_gdate_set_today (GDate* gd)
@@ -97,7 +98,36 @@ gnc_time64_get_day_end_gdate (const GDate *date)
 void
 gnc_gdate_set_month_start (GDate *date)
 {
-    g_date_set_day(date, 1);
+
+    gint g_tmp_y;
+    gint g_tmp_m;
+    gint g_tmp_d;
+
+
+    g_tmp_d=-1;
+    g_tmp_m=-1;
+    g_tmp_y=-1;
+
+    switch (qof_calendar_type_get())
+    {
+        case QOF_CALENDAR_TYPE_GREGORIAN:
+            g_date_set_day(date, 1);
+            break;
+        case QOF_CALENDAR_TYPE_JALALI:
+            gnc_beginning_jalalian_month(date->year,date->month,date->day,&g_tmp_y,&g_tmp_m,&g_tmp_d);
+            if( g_tmp_d==-1 || g_tmp_m==-1 || g_tmp_y ==-1)
+            {
+                g_date_set_day(date, 1);
+            } else{
+                date->year=g_tmp_y;
+                date->month=g_tmp_m;
+                date->day=g_tmp_d;
+            }
+
+            break;
+    }
+
+
 }
 
 
@@ -111,12 +141,36 @@ gnc_gdate_set_month_start (GDate *date)
 void
 gnc_gdate_set_month_end (GDate *date)
 {
-    /* First set the start of next month. */
-    g_date_set_day(date, 1);
-    g_date_add_months(date, 1);
+    gint g_tmp_y;
+    gint g_tmp_m;
+    gint g_tmp_d;
 
-    /* Then back up one day */
-    g_date_subtract_days(date, 1);
+    g_tmp_y=-1;
+    g_tmp_m=-1;
+    g_tmp_d=-1;
+    switch (qof_calendar_type_get())
+    {
+        case QOF_CALENDAR_TYPE_GREGORIAN:
+            /* First set the start of next month. */
+            g_date_set_day(date, 1);
+            g_date_add_months(date, 1);
+
+            /* Then back up one day */
+            g_date_subtract_days(date, 1);
+            break;
+        case QOF_CALENDAR_TYPE_JALALI:
+            gnc_end_of_jalalian_month(date->year,date->month,date->day,&g_tmp_y,&g_tmp_m,&g_tmp_d);
+            if( g_tmp_d==-1 || g_tmp_m==-1 || g_tmp_y ==-1)
+            {
+                g_date_set_day(date, 1);
+            } else{
+                date->year=g_tmp_y;
+                date->month=g_tmp_m;
+                date->day=g_tmp_d;
+            }
+            break;
+    }
+
 }
 
 
@@ -203,16 +257,72 @@ gnc_gdate_set_prev_quarter_end (GDate *date)
 void
 gnc_gdate_set_year_start (GDate *date)
 {
-    g_date_set_month(date, G_DATE_JANUARY);
-    g_date_set_day(date, 1);
+    gint g_tmp_y;
+    gint g_tmp_m;
+    gint g_tmp_d;
+
+    g_tmp_y=-1;
+    g_tmp_m=-1;
+    g_tmp_d=-1;
+
+    switch (qof_calendar_type_get())
+    {
+        case QOF_CALENDAR_TYPE_GREGORIAN:
+            g_date_set_month(date, G_DATE_JANUARY);
+            g_date_set_day(date, 1);
+            break;
+        case QOF_CALENDAR_TYPE_JALALI:
+            gnc_beginning_jalalian_year(date->year,date->month,date->day,&g_tmp_y,&g_tmp_m,&g_tmp_d);
+            if( g_tmp_y==-1|| g_tmp_m==-1|| g_tmp_d==-1)
+            {
+                g_date_set_month(date, G_DATE_JANUARY);
+                g_date_set_day(date, 1);
+            }
+            else
+            {
+                date->year=g_tmp_y;
+                date->month=g_tmp_m;
+                date->day=g_tmp_d;
+            }
+            break;
+    }
+
+
 }
 
 
 void
 gnc_gdate_set_year_end (GDate *date)
 {
-    g_date_set_month(date, G_DATE_DECEMBER);
-    g_date_set_day(date, 31);
+    gint g_tmp_y;
+    gint g_tmp_m;
+    gint g_tmp_d;
+    g_tmp_y=-1;
+    g_tmp_m=-1;
+    g_tmp_d=-1;
+    switch (qof_calendar_type_get())
+    {
+        case QOF_CALENDAR_TYPE_GREGORIAN:
+            g_date_set_month(date, G_DATE_DECEMBER);
+            g_date_set_day(date, 31);
+        break;
+        case QOF_CALENDAR_TYPE_JALALI:
+            gnc_end_of_jalalian_year(date->year,date->month,date->day,&g_tmp_y,&g_tmp_m,&g_tmp_d);
+            if(g_tmp_d==-1|| g_tmp_m==-1|| g_tmp_y==-1)
+            {
+                g_date_set_month(date, G_DATE_DECEMBER);
+                g_date_set_day(date, 31);
+            } else{
+                date->year=g_tmp_y;
+                date->month=g_tmp_m;
+                date->day=g_tmp_d;
+            }
+            break;
+
+
+    }
+
+
 }
 
 
@@ -300,4 +410,74 @@ gnc_gdate_set_prev_fiscal_year_end (GDate *date,
 
     gnc_gdate_set_fiscal_year_end(date, fy_end);
     g_date_subtract_years(date, 1);
+}
+
+void
+gnc_gdate_next_month (GDate *date)
+{
+    gint g_ny;
+    gint g_nm;
+    gint g_nd;
+    QofCalendarType calendarType;
+    g_ny=-1;
+    g_nm=-1;
+    g_nd=-1;
+
+    calendarType=qof_calendar_type_get();
+
+    switch (calendarType)
+    {
+        case QOF_CALENDAR_TYPE_GREGORIAN:
+            g_date_add_months (date, 1);
+        break;
+        case QOF_CALENDAR_TYPE_JALALI:
+            gnc_next_jalalian_month(date->year,date->month,date->day,&g_ny,&g_nm,&g_nd);
+            if( g_nd==-1 || g_nm==-1 || g_ny==-1)
+            {
+                g_date_add_months(date,1);
+            } else
+            {
+                date->year=g_ny;
+                date->month=g_nm;
+                date->day=g_nd;
+            }
+        break;
+
+    }
+
+}
+
+void
+gnc_gdate_prev_month (GDate *date)
+{
+    QofCalendarType calendarType;
+    gint g_ny;
+    gint g_nm;
+    gint g_nd;
+
+
+    calendarType=qof_calendar_type_get();
+    g_ny=-1;
+    g_nm=-1;
+    g_nd=-1;
+
+    switch (calendarType)
+    {
+        case QOF_CALENDAR_TYPE_GREGORIAN:
+            g_date_subtract_months(date,1);
+        break;
+        case QOF_CALENDAR_TYPE_JALALI:
+            gnc_prev_jalalian_month(date->year,date->month,date->day,&g_ny,&g_nm,&g_nd);
+            if( g_nd==-1 || g_nm==-1 || g_ny==-1)
+            {
+                g_date_subtract_months(date,1);
+            } else
+            {
+                date->year=g_ny;
+                date->month=g_nm;
+                date->day=g_nd;
+            }
+        break;
+    }
+
 }

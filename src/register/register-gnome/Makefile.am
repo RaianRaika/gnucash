@@ -22,6 +22,7 @@ libgncmod_register_gnome_la_SOURCES = \
   formulacell-gnome.c \
   gnucash-color.c \
   gnucash-cursor.c \
+  gnucash-calendar.c \
   gnucash-date-picker.c \
   gnucash-grid.c \
   gnucash-header.c \
@@ -38,6 +39,7 @@ noinst_HEADERS = \
   formulacell-gnome.h \
   gnucash-color.h \
   gnucash-cursor.h \
+  gnucash-calendar.h \
   gnucash-date-picker.h \
   gnucash-grid.h \
   gnucash-header.h \

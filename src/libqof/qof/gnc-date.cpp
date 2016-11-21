@@ -623,12 +623,33 @@ qof_print_date_dmy_buff (char * buff, size_t len, int day, int month, int year)
 {
     if (!buff) return 0;
 
-    GncDate date(year, month, day);
+  /*  GncDate date(year, month, day);
     std::string str = date.format(qof_date_format_get_string(dateFormat));
     strncpy(buff, str.c_str(), len);
     if (str.length() >= len)
 	buff[len - 1] = '\0';
+    return strlen(buff);*/
+    GncDate date(year, month, day);
+    std::string str;
+
+    if ( gnc_use_maske())
+    {
+        // print masked date
+         date.convert_to_masked_calender();
+        str=date.format_masked_date(qof_date_format_get_string(dateFormat));
+    }
+    else
+    {
+        str = date.format(qof_date_format_get_string(dateFormat));
+    }
+
+
+
+    strncpy(buff, str.c_str(), len);
+    if (str.length() >= len)
+        buff[len - 1] = '\0';
     return strlen(buff);
+
 }
 
 size_t
@@ -653,7 +674,7 @@ qof_print_date_buff (char * buff, size_t len, time64 t)
 
     GncDateTime gncdt(t);
     std::string str;
-    // TODO add a function to find the true way of printing 
+
     if ( gnc_use_maske())
     {
         // print masked date

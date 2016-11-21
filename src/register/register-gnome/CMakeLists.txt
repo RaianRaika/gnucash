@@ -18,6 +18,7 @@ SET (register_gnome_SOURCES
   pricecell-gnome.c
   quickfillcell-gnome.c
   table-gnome.c
+  gnucash-calendar.c
 )
 
 SET (register_gnome_noinst_HEADERS
@@ -36,6 +37,7 @@ SET (register_gnome_noinst_HEADERS
   pricecell-gnome.h
   quickfillcell-gnome.h
   table-gnome.h
+  gnucash-calendar.h
 )
 
 # Add dependency on config.h

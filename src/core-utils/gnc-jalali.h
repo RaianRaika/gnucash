@@ -42,5 +42,22 @@ int gnc_jalali_days_in_month(int month_index);
  * month_index is 0 for the first month. */
 const char* gnc_jalali_month_name(int month_index);
 
+void gnc_next_jalalian_month(const int g_y,const int g_m,const int g_d,
+                             int * g_ny, int *g_nm, int *g_nd);
+void gnc_prev_jalalian_month(const int g_y,const int g_m,const int g_d,
+                             int * g_py, int *g_pm, int *g_pd);
+
+void gnc_beginning_jalalian_month(const int g_y,const int g_m,const int g_d,
+                                 int * g_fy, int *g_fm, int *g_fd);
+
+void gnc_end_of_jalalian_month(const int g_y,const int g_m,const int g_d,
+                                 int * g_ey, int *g_em, int *g_ed);
+
+void gnc_beginning_jalalian_year(const int g_y,const int g_m,const int g_d,
+                                int * g_fy, int *g_fm, int *g_fd);
+
+void gnc_end_of_jalalian_year(const int g_y,const int g_m,const int g_d,
+                                int * g_ey, int *g_em, int *g_ed);
+
 
 #endif

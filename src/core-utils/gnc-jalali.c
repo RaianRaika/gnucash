@@ -54,6 +54,12 @@ const char *j_month_name[12] =
     "Dey", "Bahman", "Esfand"
 };
 
+static gboolean  valid_date(const int j_y, const int j_m, const int j_d)
+{
+    return  j_y >0 && j_m <= 12 && j_m > 0 && j_d>0 &&( j_d <= j_days_in_month[j_m-1]
+                                              || ( j_m == 12 ?j_d <= (j_days_in_month[j_m-1] +1):FALSE));
+}
+
 int gnc_jalali_days_in_month(int month_index)
 {
     g_assert(month_index < 12);
@@ -66,6 +72,156 @@ const char* gnc_jalali_month_name(int month_index)
     return j_month_name[month_index];
 }
 
+void gnc_next_jalalian_month(const int g_y,const int g_m,const int g_d,
+                             int * g_ny, int *g_nm, int *g_nd)
+{
+    int j_tmp_y;
+    int j_tmp_m;
+    int j_tmp_d;
+
+    gnc_gregorian_to_jalali(&j_tmp_y,&j_tmp_m,&j_tmp_d,g_y,g_m,g_d);
+
+    j_tmp_m++;
+    if(j_tmp_m >12)
+    {
+        j_tmp_y++;
+        j_tmp_m=1;
+    }
+
+    while (!valid_date(j_tmp_y,j_tmp_m-1,j_tmp_d) && j_tmp_d>0)j_tmp_d--;
+
+
+    if( j_tmp_d<=0)
+    {
+        *g_nd=-1;
+        *g_nm=-1;
+        *g_ny=01;
+    } else{
+        gnc_jalali_to_gregorian(g_ny,g_nm,g_nd,j_tmp_y,j_tmp_m,j_tmp_d);
+    }
+}
+
+void gnc_prev_jalalian_month(const int g_y,const int g_m,const int g_d,
+                             int * g_py, int *g_pm, int *g_pd)
+{
+    int j_tmp_y;
+    int j_tmp_m;
+    int j_tmp_d;
+
+    gnc_gregorian_to_jalali(&j_tmp_y,&j_tmp_m,&j_tmp_d,g_y,g_m,g_d);
+
+    j_tmp_m--;
+    if(j_tmp_m <=0)
+    {
+        j_tmp_y--;
+        j_tmp_m=11;
+    }
+
+    while (!valid_date(j_tmp_y,j_tmp_m-1,j_tmp_d) && j_tmp_d>0)j_tmp_d--;
+
+
+    if( j_tmp_d<=0)
+    {
+        *g_pd=-1;
+        *g_pm=-1;
+        *g_py=01;
+    } else{
+        gnc_jalali_to_gregorian(g_py,g_pm,g_pd,j_tmp_y,j_tmp_m,j_tmp_d);
+    }
+}
+
+void gnc_beginning_jalalian_month(const int g_y,const int g_m,const int g_d,
+                                 int * g_fy, int *g_fm, int *g_fd)
+{
+    int j_tmp_y;
+    int j_tmp_m;
+    int j_tmp_d;
+
+    gnc_gregorian_to_jalali(&j_tmp_y,&j_tmp_m,&j_tmp_d,g_y,g_m,g_d);
+
+    j_tmp_d=1; // first day of month
+
+    gnc_jalali_to_gregorian(g_fy,g_fm,g_fd,j_tmp_y,j_tmp_m,j_tmp_d);
+
+
+}
+void gnc_end_of_jalalian_month(const int g_y,const int g_m,const int g_d,
+                               int * g_ey, int *g_em, int *g_ed)
+{
+
+    int j_tmp_y;
+    int j_tmp_m;
+    int j_tmp_d;
+
+    gnc_gregorian_to_jalali(&j_tmp_y,&j_tmp_m,&j_tmp_d,g_y,g_m,g_d);
+
+
+    j_tmp_d=gnc_jalali_days_in_month(j_tmp_m-1); // first day of month
+
+    if(!valid_date(j_tmp_y,j_tmp_m,j_tmp_d))
+    {
+
+        *g_ed=-1;
+        *g_em=-1;
+        *g_ey=-1;
+    } else
+    {
+        gnc_jalali_to_gregorian(g_ey,g_em,g_ed,j_tmp_y,j_tmp_m,j_tmp_d);
+    }
+
+
+
+
+}
+
+void gnc_beginning_jalalian_year(const int g_y,const int g_m,const int g_d,
+                                 int * g_fy, int *g_fm, int *g_fd)
+{
+    int j_tmp_y;
+    int j_tmp_m;
+    int j_tmp_d;
+
+    gnc_gregorian_to_jalali(&j_tmp_y,&j_tmp_m,&j_tmp_d,g_y,g_m,g_d);
+    j_tmp_m=1; // first month
+    j_tmp_d=1; // first day of month
+
+    gnc_jalali_to_gregorian(g_fy,g_fm,g_fd,j_tmp_y,j_tmp_m,j_tmp_d);
+}
+void gnc_end_of_jalalian_year(const int g_y,const int g_m,const int g_d,
+                              int * g_ey, int *g_em, int *g_ed)
+{
+    int j_tmp_y;
+    int j_tmp_m;
+    int j_tmp_d;
+
+    int y;
+
+    gnc_gregorian_to_jalali(&j_tmp_y,&j_tmp_m,&j_tmp_d,g_y,g_m,g_d);
+
+    j_tmp_m=12; // end of year
+    j_tmp_d=gnc_jalali_days_in_month(j_tmp_m-1); // last day of month
+
+
+
+    if (j_tmp_y > 0)
+        y = j_tmp_y - 474;
+    else
+        y = 473;
+     if((((((y % 2820) + 474) + 38) * 682) % 2816) < 682)
+         j_tmp_d++;
+
+    if(!valid_date(j_tmp_y,j_tmp_m,j_tmp_d))
+    {
+
+        *g_ed=-1;
+        *g_em=-1;
+        *g_ey=-1;
+    } else
+    {
+        gnc_jalali_to_gregorian(g_ey,g_em,g_ed,j_tmp_y,j_tmp_m,j_tmp_d);
+    }
+
+}
 void gnc_gregorian_to_jalali(int *j_y, int *j_m, int *j_d,
                              int  g_y, int  g_m, int  g_d)
 {

@@ -28,6 +28,8 @@
 #include <libgnomecanvas/libgnomecanvas.h>
 #include <gdk/gdkkeysyms.h>
 #include "gnucash-date-picker.h"
+#include "gnucash-calendar.h"
+#include "gnc-date.h"
 
 
 /* Item list signals */
@@ -50,9 +52,10 @@ gnc_date_picker_set_date (GNCDatePicker *date_picker,
     g_return_if_fail (IS_GNC_DATE_PICKER (date_picker));
     g_return_if_fail (date_picker->calendar != NULL);
 
-    gtk_calendar_select_day (date_picker->calendar, 1);
-    gtk_calendar_select_month (date_picker->calendar, mon, year);
-    gtk_calendar_select_day (date_picker->calendar, day);
+    //gnc_calendar_select_day (date_picker->calendar, 1);
+    gnc_calendar_select_day (date_picker->calendar, day);
+    gnc_calendar_select_month (date_picker->calendar, mon, year);
+    gnc_calendar_select_day (date_picker->calendar, day);
 }
 
 void
@@ -62,7 +65,7 @@ gnc_date_picker_get_date (GNCDatePicker *date_picker,
     g_return_if_fail (IS_GNC_DATE_PICKER (date_picker));
     g_return_if_fail (date_picker->calendar != NULL);
 
-    gtk_calendar_get_date (date_picker->calendar, year, mon, day);
+    gnc_calendar_get_date (date_picker->calendar, year, mon, day);
 }
 
 static void
@@ -190,13 +193,13 @@ gnc_date_picker_get_type (void)
 
 
 static void
-day_selected (GtkCalendar *calendar, GNCDatePicker *gdp)
+day_selected (GncCalendar *calendar, GNCDatePicker *gdp)
 {
     g_signal_emit (gdp, gnc_date_picker_signals [DATE_SELECTED], 0);
 }
 
 static void
-day_selected_double_click (GtkCalendar *calendar, GNCDatePicker *gdp)
+day_selected_double_click (GncCalendar *calendar, GNCDatePicker *gdp)
 {
     g_signal_emit (gdp, gnc_date_picker_signals [DATE_PICKED], 0);
 }
@@ -208,8 +211,25 @@ gnc_date_picker_new (GnomeCanvasGroup *parent)
     GtkWidget *calendar;
     GnomeCanvasItem *item;
     GNCDatePicker *date_picker;
+    GncCalendarType calendarType;
 
-    calendar = gtk_calendar_new ();
+    calendar = gnc_calendar_new ();
+
+    // change qof calendar type to GncCalendar Type
+
+   // calendarType=  gnc_calendar_get_calendar_type(GNC_CALENDAR(calendar));
+
+
+    switch (qof_calendar_type_get())
+    {
+        case QOF_CALENDAR_TYPE_GREGORIAN:
+                gnc_calendar_set_calendar_type(GNC_CALENDAR(calendar),GREGORIAN_CALENDAR);
+            break;
+        case QOF_CALENDAR_TYPE_JALALI:
+                gnc_calendar_set_calendar_type(GNC_CALENDAR(calendar),JALALIAN_CALENDAR);
+            break;
+    }
+
 
     {
         GtkWidget *hbox;
@@ -241,7 +261,7 @@ gnc_date_picker_new (GnomeCanvasGroup *parent)
 
     date_picker = GNC_DATE_PICKER (item);
 
-    date_picker->calendar = GTK_CALENDAR (calendar);
+    date_picker->calendar = GNC_CALENDAR (calendar);
 
     g_signal_connect_after (calendar, "button_press_event",
                             G_CALLBACK (gnc_date_picker_button_event),

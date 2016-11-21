@@ -236,6 +236,10 @@ void gnc_gdate_set_prev_fiscal_year_start (GDate *date, const GDate *year_end);
  *  fiscal year.  The year field of this argument is ignored. */
 void gnc_gdate_set_prev_fiscal_year_end (GDate *date, const GDate *year_end);
 
+
+void gnc_gdate_next_month(GDate *date);
+
+void gnc_gdate_prev_month(GDate *date);
 /** @} */
 
 #endif /* GNC_GDATE_UTILS_H */
