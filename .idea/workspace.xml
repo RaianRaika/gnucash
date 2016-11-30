@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/libqof/qof/gnc-datetime.cpp" line="96" />
+    <bookmark url="file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp" line="569" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Gnucash" targetName="gncmod-register-gnome" />
+      <config projectName="Gnucash" targetName="test-lots" />
+      <config projectName="Gnucash" targetName="test-link" />
+      <config projectName="Gnucash" targetName="gncmod-test-engine" />
+      <config projectName="Gnucash" targetName="gncmod-engine" />
+      <config projectName="Gnucash" targetName="csv-exp-gschema" />
+      <config projectName="Gnucash" targetName="gncmod_futuremodsys" />
+      <config projectName="Gnucash" targetName="foo" />
+      <config projectName="Gnucash" targetName="test-load-engine" />
+      <config projectName="Gnucash" targetName="gncmod-app-utils" />
+      <config projectName="Gnucash" targetName="scm-test-core" />
+      <config projectName="Gnucash" targetName="scm-report-stylesheets-2-links" />
+      <config projectName="Gnucash" targetName="csv-imp-gschema" />
+      <config projectName="Gnucash" targetName="gncmodbaz" />
+      <config projectName="Gnucash" targetName="scm-core-utils" />
+      <config projectName="Gnucash" targetName="test-load-backend" />
+      <config projectName="Gnucash" targetName="quotes-man" />
+      <config projectName="Gnucash" targetName="gncmodbar" />
+      <config projectName="Gnucash" targetName="test-load-xml2" />
+      <config projectName="Gnucash" targetName="scm-test-report-system" />
+      <config projectName="Gnucash" targetName="gncmod-locale-reports-us" />
+      <config projectName="Gnucash" targetName="check" />
+      <config projectName="Gnucash" targetName="test-link-module-report-locale-specific-us" />
+      <config projectName="Gnucash" targetName="gncmod-backend-xml" />
+      <config projectName="Gnucash" targetName="scm-standard-reports-links" />
+      <config projectName="Gnucash" targetName="scm-gnome-utils" />
+      <config projectName="Gnucash" targetName="test-column-types" />
+      <config projectName="Gnucash" targetName="po-gmo-build" />
+      <config projectName="Gnucash" targetName="gncmod-register-core" />
+      <config projectName="Gnucash" targetName="test-string-converters" />
+      <config projectName="Gnucash" targetName="po-gmo" />
+      <config projectName="Gnucash" targetName="scm-report-system" />
+      <config projectName="Gnucash" targetName="scm-business-reports" />
+      <config projectName="Gnucash" targetName="test-link-module-ledger-core" />
+      <config projectName="Gnucash" targetName="test-transaction-voiding" />
+      <config projectName="Gnucash" targetName="test-xml-commodity" />
+      <config projectName="Gnucash" targetName="gnucash-desktop" />
+      <config projectName="Gnucash" targetName="test-transaction-reversal" />
+      <config projectName="Gnucash" targetName="gncmod-tax-us" />
+      <config projectName="Gnucash" targetName="scm-gnome-utils-1" />
+      <config projectName="Gnucash" targetName="test-csv-imp" />
+      <config projectName="Gnucash" targetName="test-group-vs-book" />
+      <config projectName="Gnucash" targetName="gnc-module" />
+      <config projectName="Gnucash" targetName="scm-report-stylesheets-1-links" />
+      <config projectName="Gnucash" targetName="test-link-module-tax-us" />
+      <config projectName="Gnucash" targetName="scm-engine-1" />
+      <config projectName="Gnucash" targetName="scm-engine-0" />
+      <config projectName="Gnucash" targetName="gncmod-utility-reports" />
+      <config projectName="Gnucash" targetName="gnc-backend-xml-utils" />
+      <config projectName="Gnucash" targetName="test-core" />
+      <config projectName="Gnucash" targetName="test-gnc-uri-utils" />
+      <config projectName="Gnucash" targetName="test-vendor" />
+      <config projectName="Gnucash" targetName="test-modsysver" />
+      <config projectName="Gnucash" targetName="quotes-bin" />
+      <config projectName="Gnucash" targetName="test-link-module-gnome-utils" />
+      <config projectName="Gnucash" targetName="gnucash-appdata" />
+      <config projectName="Gnucash" targetName="test-xml-account" />
+      <config projectName="Gnucash" targetName="qif-imp-gschema" />
+      <config projectName="Gnucash" targetName="gnc-qof" />
+      <config projectName="Gnucash" targetName="business-gnome-gschema" />
+      <config projectName="Gnucash" targetName="test-business" />
+      <config projectName="Gnucash" targetName="test-qof" />
+      <config projectName="Gnucash" targetName="gncmod-customer_import" />
+      <config projectName="Gnucash" targetName="scm-app-utils-3" />
+      <config projectName="Gnucash" targetName="scm-app-utils-2" />
+      <config projectName="Gnucash" targetName="scm-app-utils-1" />
+      <config projectName="Gnucash" targetName="ofx-gschema" />
+      <config projectName="Gnucash" targetName="scm-scm-0" />
+      <config projectName="Gnucash" targetName="scm-scm-1" />
+      <config projectName="Gnucash" targetName="scm-qif-import" />
+      <config projectName="Gnucash" targetName="scm-scm-3" />
+      <config projectName="Gnucash" targetName="scm-utility-reports" />
+      <config projectName="Gnucash" targetName="test-gnc-glib-utils" />
+      <config projectName="Gnucash" targetName="test-commodities" />
+      <config projectName="Gnucash" targetName="gncmod-ledger-core" />
+      <config projectName="Gnucash" targetName="scm-test-standard-reports" />
+      <config projectName="Gnucash" targetName="test-engine" />
+      <config projectName="Gnucash" targetName="swig-gnucash-core" />
+      <config projectName="Gnucash" targetName="test-query" />
+      <config projectName="Gnucash" targetName="gncmodfoo" />
+      <config projectName="Gnucash" targetName="test-backend-dbi" />
+      <config projectName="Gnucash" targetName="scm-gnc-module" />
+      <config projectName="Gnucash" targetName="gncmod-backend-xml-link" />
+      <config projectName="Gnucash" targetName="scm-gnome-utils-2" />
+      <config projectName="Gnucash" targetName="test-date-converting" />
+      <config projectName="Gnucash" targetName="scm-report-locale-specific-1" />
+      <config projectName="Gnucash" targetName="test-dynload" />
+      <config projectName="Gnucash" targetName="gncmod-backend-dbi" />
+      <config projectName="Gnucash" targetName="scm-standard-reports-2" />
+      <config projectName="Gnucash" targetName="gncmod-csv-import" />
+      <config projectName="Gnucash" targetName="test-print-parse-amount" />
+      <config projectName="Gnucash" targetName="gncmod-backend-dbi-link" />
+      <config projectName="Gnucash" targetName="test-link-ofx" />
+      <config projectName="Gnucash" targetName="test-agedver" />
+      <config projectName="Gnucash" targetName="swig-core-utils-python" />
+      <config projectName="Gnucash" targetName="gncmod-log-replay" />
+      <config projectName="Gnucash" targetName="swig-unittest-support-python" />
+      <config projectName="Gnucash" targetName="gncmod-html" />
+      <config projectName="Gnucash" targetName="test-link-qif-imp" />
+      <config projectName="Gnucash" targetName="gnucash" />
+      <config projectName="Gnucash" targetName="gncmod_agedver" />
+      <config projectName="Gnucash" targetName="test-address" />
+      <config projectName="Gnucash" targetName="test-scm-query" />
+      <config projectName="Gnucash" targetName="scm-test-engine" />
+      <config projectName="Gnucash" targetName="test-split-vs-account" />
+      <config projectName="Gnucash" targetName="gncmod-gnome-search" />
+      <config projectName="Gnucash" targetName="test-exp-parser" />
+      <config projectName="Gnucash" targetName="gncmod-qif-import" />
+      <config projectName="Gnucash" targetName="test-link-module-report-gnome" />
+      <config projectName="Gnucash" targetName="test-link-generic-import" />
+      <config projectName="Gnucash" targetName="gnc-backend-sql" />
+      <config projectName="Gnucash" targetName="compiled-schemas" />
+      <config projectName="Gnucash" targetName="gncmod_incompatdep" />
+      <config projectName="Gnucash" targetName="scm-report-gnome" />
+      <config projectName="Gnucash" targetName="test-employee" />
+      <config projectName="Gnucash" targetName="scm-scm" />
+      <config projectName="Gnucash" targetName="scm-tax-us-1" />
+      <config projectName="Gnucash" targetName="test-dom-converters1" />
+      <config projectName="Gnucash" targetName="test-numeric" />
+      <config projectName="Gnucash" targetName="test-link-module-register-gnome" />
+      <config projectName="Gnucash" targetName="test-querynew" />
+      <config projectName="Gnucash" targetName="generic-import-gschema" />
+      <config projectName="Gnucash" targetName="scm-business-gnome" />
+      <config projectName="Gnucash" targetName="test-sqlbe" />
+      <config projectName="Gnucash" targetName="test-xml-pricedb" />
+      <config projectName="Gnucash" targetName="test-job" />
+      <config projectName="Gnucash" targetName="test-guid" />
+      <config projectName="Gnucash" targetName="scm-standard-reports-2-links" />
+      <config projectName="Gnucash" targetName="scm-gnumeric" />
+      <config projectName="Gnucash" targetName="test-scm-query-string" />
+      <config projectName="Gnucash" targetName="test-date" />
+      <config projectName="Gnucash" targetName="scm-app-utils" />
+      <config projectName="Gnucash" targetName="scm-engine" />
+      <config projectName="Gnucash" targetName="scm-report-system-3" />
+      <config projectName="Gnucash" targetName="scm-report-system-2" />
+      <config projectName="Gnucash" targetName="test-object" />
+      <config projectName="Gnucash" targetName="test-recurrence" />
+      <config projectName="Gnucash" targetName="gncmod-generic-import" />
+      <config projectName="Gnucash" targetName="test-link-module-register-core" />
+      <config projectName="Gnucash" targetName="gncmod-report-system" />
+      <config projectName="Gnucash" targetName="scm-business-reports-links" />
+      <config projectName="Gnucash" targetName="gncmod-standard-reports" />
+      <config projectName="Gnucash" targetName="scm-report-stylesheets-2" />
+      <config projectName="Gnucash" targetName="scm-report-stylesheets-1" />
+      <config projectName="Gnucash" targetName="scm-scm-2" />
+      <config projectName="Gnucash" targetName="gncmod-stylesheets" />
+      <config projectName="Gnucash" targetName="gnc-gnome" />
+      <config projectName="Gnucash" targetName="test-account-object" />
+      <config projectName="Gnucash" targetName="swig-app-utils-python" />
+      <config projectName="Gnucash" targetName="gncmod-gnome-utils" />
+      <config projectName="Gnucash" targetName="aqb-gschema" />
+      <config projectName="Gnucash" targetName="test-kvp-frames" />
+      <config projectName="Gnucash" targetName="test-incompatdep" />
+      <config projectName="Gnucash" targetName="test-link-module-report-system" />
+      <config projectName="Gnucash" targetName="test-sx" />
+      <config projectName="Gnucash" targetName="test-load-example-account" />
+      <config projectName="Gnucash" targetName="gnc-business-ledger" />
+      <config projectName="Gnucash" targetName="gncmod-csv-export" />
+      <config projectName="Gnucash" targetName="gnucash-design.texi" />
+      <config projectName="Gnucash" targetName="test-core-guile" />
+      <config projectName="Gnucash" targetName="test-link-module" />
+      <config projectName="Gnucash" targetName="test-import-parse" />
+      <config projectName="Gnucash" targetName="gnc-core-utils" />
+      <config projectName="Gnucash" targetName="gncmod-report-gnome" />
+      <config projectName="Gnucash" targetName="gnome-gschema" />
+      <config projectName="Gnucash" targetName="gncmod-aqbanking" />
+      <config projectName="Gnucash" targetName="test-load-c" />
+      <config projectName="Gnucash" targetName="test-xml-transaction" />
+      <config projectName="Gnucash" targetName="gncmod-business-gnome" />
+      <config projectName="Gnucash" targetName="scm-standard-reports" />
+      <config projectName="Gnucash" targetName="scm-report-stylesheets" />
+      <config projectName="Gnucash" targetName="gncmod-bi_import" />
+      <config projectName="Gnucash" targetName="scm-report-locale-specific-2" />
+      <config projectName="Gnucash" targetName="scm-gettext" />
+      <config projectName="Gnucash" targetName="scm-tax-us-2" />
+      <config projectName="Gnucash" targetName="test-xml2-is-file" />
+      <config projectName="Gnucash" targetName="scm-qif-import-2" />
+      <config projectName="Gnucash" targetName="baz" />
+      <config projectName="Gnucash" targetName="scm-utility-reports-links" />
+      <config projectName="Gnucash" targetName="gncmod-backend-xml-utils" />
+      <config projectName="Gnucash" targetName="bar" />
+      <config projectName="Gnucash" targetName="gncmod-qif" />
+      <config projectName="Gnucash" targetName="test-resolve-file-path" />
+      <config projectName="Gnucash" targetName="gnc-vcs-info" />
+      <config projectName="Gnucash" targetName="test-customer" />
+      <config projectName="Gnucash" targetName="gnome-utils-gschema" />
+      <config projectName="Gnucash" targetName="gncmod-ofx" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a8052b7-2083-4a0a-8db2-868003e976e4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/amin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gnucash.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gnome/gnc-split-reg.c" afterPath="$PROJECT_DIR$/src/gnome/gnc-split-reg.c" />
+    </list>
+    <ignored path="gnucash.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="gnucash" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gnc-split-reg.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gnome/gnc-split-reg.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <marker date="1484731541183" expanded="true" signature="8317:9046" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="9093:9538" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="9663:14089" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="9750:9861" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="14260:14746" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="14799:15037" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="15091:15333" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="15383:15680" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="15731:17265" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="17324:17673" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="17739:17742" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="17744:17803" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="17849:17987" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="17990:18106" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="18452:19063" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="19135:22060" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="22127:22915" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="22717:22826" ph="/.../" />
+                <marker date="1484731541183" expanded="true" signature="22981:23032" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="23034:23108" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="23165:23239" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="23306:23358" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="23360:23435" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="23493:23568" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="23636:23689" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="23691:23767" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="23826:23902" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="23972:24070" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="24072:24130" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="24193:24271" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="24342:24441" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="24443:24501" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="24564:24643" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="24715:24815" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="24817:24878" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="24943:25023" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="25025:25516" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="25585:25619" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="25684:25763" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="25765:26258" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="26329:26363" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="26430:26511" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="26513:27004" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="27076:27825" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="27893:27975" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="28048:29571" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="29641:31742" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="31285:31452" ph="/.../" />
+                <marker date="1484731541183" expanded="true" signature="31744:31796" ph="/**...*/" />
+                <marker date="1484731541183" expanded="true" signature="31872:31953" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="32060:34534" ph="{...}" />
+                <marker date="1484731541183" expanded="true" signature="34645:71275" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testesa" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/gnome/gnc-plugin-page-budget.c" />
+        <option value="$PROJECT_DIR$/src/gnome/gnc-plugin-page-register2.c" />
+        <option value="$PROJECT_DIR$/src/gnome/window-reconcile.c" />
+        <option value="$PROJECT_DIR$/src/gnome/window-reconcile2.c" />
+        <option value="$PROJECT_DIR$/src/gnome/window-autoclear.c" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/qofbookslots.h" />
+        <option value="$PROJECT_DIR$/src/gnome/gnc-plugin-page-register.c" />
+        <option value="$PROJECT_DIR$/src/gnome-utils/gnc-date-edit.h" />
+        <option value="$PROJECT_DIR$/src/gnome-utils/dialog-preferences.c" />
+        <option value="$PROJECT_DIR$/src/gnome-utils/dialog-transfer.c" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/Makefile.am" />
+        <option value="$PROJECT_DIR$/src/core-utils/Makefile.am" />
+        <option value="$PROJECT_DIR$/src/libqof/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/gnc-jalali.h" />
+        <option value="$PROJECT_DIR$/src/app-utils/migratable-prefs.xml.in" />
+        <option value="$PROJECT_DIR$/src/core-utils/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/core-utils/calendar-gregorian-lib.c" />
+        <option value="$PROJECT_DIR$/src/core-utils/calendar-gregorian-lib.h" />
+        <option value="$PROJECT_DIR$/src/core-utils/calendar-jalali-lib.h" />
+        <option value="$PROJECT_DIR$/src/core-utils/calendar-lib.h" />
+        <option value="$PROJECT_DIR$/src/core-utils/calendar-jalali-lib.c" />
+        <option value="$PROJECT_DIR$/src/register/register-gnome/gnucash-calendar.c" />
+        <option value="$PROJECT_DIR$/src/register/register-gnome/gnucash-calendar.h" />
+        <option value="$PROJECT_DIR$/src/register/register-gnome/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/gnome-utils/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/gnome-utils/Makefile.am" />
+        <option value="$PROJECT_DIR$/src/gnome-utils/gnc-date-edit.c" />
+        <option value="$PROJECT_DIR$/src/register/register-core/basiccell.c" />
+        <option value="$PROJECT_DIR$/src/register/register-gnome/datecell-gnome.c" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/gnc-date.h" />
+        <option value="$PROJECT_DIR$/src/engine/Recurrence.c" />
+        <option value="$PROJECT_DIR$/src/gnome-utils/dialog-utils.c" />
+        <option value="$PROJECT_DIR$/src/gnome-utils/gnc-gnome-utils.c" />
+        <option value="$PROJECT_DIR$/src/register/register-core/basiccell.h" />
+        <option value="$PROJECT_DIR$/src/register/register-gnome/gnucash-date-picker.c" />
+        <option value="$PROJECT_DIR$/src/register/register-gnome/gnucash-item-edit.c" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/gnc-jalali.c" />
+        <option value="$PROJECT_DIR$/src/core-utils/gnc-gdate-utils.c" />
+        <option value="$PROJECT_DIR$/src/core-utils/gnc-gdate-utils.h" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/gnc-datetime.hpp" />
+        <option value="$PROJECT_DIR$/src/gnome-utils/gnucash-calendar.c" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/gnc-timezone.hpp" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/gnc-datetime.cpp" />
+        <option value="$PROJECT_DIR$/ChangeLog" />
+        <option value="$PROJECT_DIR$/src/config.h" />
+        <option value="$PROJECT_DIR$/configure.ac" />
+        <option value="$PROJECT_DIR$/configure" />
+        <option value="$PROJECT_DIR$/config.h" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/gnome/gnc-split-reg.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-6" />
+    <option name="y" value="24" />
+    <option name="width" value="1378" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnucash" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnucash" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnucash" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnucash" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnucash" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnucash" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnucash" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="gnc-split-reg.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome/gnc-split-reg.c&#10;gnc-&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnc-vc&#9;RUN_CONFIGURATION&#9;gnc-vcs-info&#10;migratable-pref.xml&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/app-utils/migratable-prefs.xml&#10;test-extras.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/test/gnucash/engine/test/test-extras.scm&#10;test-gnc-date.c:490&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;config.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;test-gnc-date.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;configur&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/configure&#10;plat&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/platform.h&#10;config&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;gnc-datetime.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.cpp&#10;gnc-date.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnucash-calendar.c&#9;null&#9;null&#10;gnc-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnc-da&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-gdate-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.c&#10;gnc-jalali.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnu-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;gnucash-item-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-item-edit.c&#10;gnucash-date-picker.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.h&#10;gnucash-date-picker.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;datecell-gnome.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/datecell-gnome.c&#10;basiccell.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.h&#10;gnc-gnome-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.h&#10;gnc-gnome-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.c&#10;gnc-date-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-date-edit.c&#10;dialog-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-utils.c&#10;dialog-preferences.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-preferences.c&#10;gnc-gdate-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.h&#10;calendar-gregorian-lib.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-gregorian-lib.c&#10;format_masked&#9;null&#9;null&#10;CALENDAR&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;gtkCalen&#9;null&#9;null&#10;gnucash-calendar.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;basiccell.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.c&#10;gnc-datetime.hpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.hpp&#10;gnc-date.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-prefs.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-prefs.h&#10;calendar-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-lib.h&#10;calendar-jalali-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-jalali-lib.h&#10;calendar-jalali-lib.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-jalali-lib.c&#10;calendar-gregorian-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-gregorian-lib.h&#10;qof/gnc-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnucash-calendar&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.c&#10;src/core-utils/Makefile.am&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/Makefile.am&#10;src/core-utils/CMakeLists.txt&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/CMakeLists.txt&#10;migratable-prefs.xml.&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/app-utils/migratable-prefs.xml.in" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-patch.diff" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/libqof/qof" />
+      <recent name="$PROJECT_DIR$/src/register/register-gnome/date-picker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/gnome-utils" />
+      <recent name="$PROJECT_DIR$/src/core-utils" />
+      <recent name="$PROJECT_DIR$/src/register/register-gnome/date-picker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.gnc-vcs-info">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="check" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gnucash" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gnucash" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gnucash" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gnucash" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gnucash" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gnucash" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gnucash" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="compiled-schemas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="compiled-schemas" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="po-gmo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="po-gmo" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="po-gmo-build" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="po-gmo-build" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-app-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-app-utils" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-app-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-app-utils" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-app-utils-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-app-utils-1" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-app-utils-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-app-utils-2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-app-utils-3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-app-utils-3" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-gettext" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-gettext" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="swig-app-utils-python" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="swig-app-utils-python" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-exp-parser" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-exp-parser" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-exp-parser">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-module" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-module" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-module">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-print-parse-amount" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-print-parse-amount" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-print-parse-amount">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-scm-query-string" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-scm-query-string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-scm-query-string">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-sx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-sx" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-sx">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-backend-dbi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-backend-dbi" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-backend-dbi-link" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-backend-dbi-link" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-backend-dbi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-backend-dbi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-backend-dbi">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnc-backend-sql" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnc-backend-sql" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-column-types" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-column-types" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-column-types">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-sqlbe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-sqlbe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-sqlbe">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnc-backend-xml-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnc-backend-xml-utils" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-backend-xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-backend-xml" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-backend-xml-link" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-backend-xml-link" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-backend-xml-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-backend-xml-utils" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-date-converting" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-date-converting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-date-converting">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-dom-converters1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-dom-converters1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-dom-converters1">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-kvp-frames" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-kvp-frames" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-kvp-frames">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-load-backend" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-load-backend" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-load-backend">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-load-example-account" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-load-example-account" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-load-example-account">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-load-xml2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-load-xml2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-load-xml2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-string-converters" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-string-converters" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-string-converters">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-xml-account" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-xml-account" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-xml-account">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-xml-commodity" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-xml-commodity" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-xml-commodity">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-xml-pricedb" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-xml-pricedb" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-xml-pricedb">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-xml-transaction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-xml-transaction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-xml-transaction">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-xml2-is-file" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-xml2-is-file" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-xml2-is-file">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnucash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnucash" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="gnucash">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-business-gnome" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-business-gnome" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-business-gnome" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-business-gnome" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="business-gnome-gschema" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="business-gnome-gschema" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnc-business-ledger" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnc-business-ledger" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnc-core-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnc-core-utils" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnc-vcs-info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnc-vcs-info" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-core-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-core-utils" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="swig-core-utils-python" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="swig-core-utils-python" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-gnc-glib-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-gnc-glib-utils" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-gnc-glib-utils">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-gnc-uri-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-gnc-uri-utils" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-gnc-uri-utils">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-resolve-file-path" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-resolve-file-path" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-resolve-file-path">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnucash-design.texi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnucash-design.texi" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-engine" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-engine" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-engine" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-engine" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-engine-0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-engine-0" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-engine-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-engine-1" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-test-engine" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-test-engine" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-test-engine" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-test-engine" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-account-object" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-account-object" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-account-object">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-address" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-address" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-address">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-business" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-business" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-business">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-commodities" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-commodities" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-commodities">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-customer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-customer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-customer">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-date" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-date" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-date">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-employee" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-employee" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-employee">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-engine" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-engine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-engine">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-group-vs-book" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-group-vs-book" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-group-vs-book">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-guid" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-guid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-guid">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-job" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-job" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-job">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-load-engine" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-load-engine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-load-engine">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-lots" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-lots" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-lots">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-numeric" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-numeric" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-numeric">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-object" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-object" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-object">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-query" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-query" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-query">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-querynew" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-querynew" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-querynew">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-recurrence" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-recurrence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-recurrence">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-scm-query" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-scm-query" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-scm-query">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-split-vs-account" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-split-vs-account" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-split-vs-account">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-transaction-reversal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-transaction-reversal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-transaction-reversal">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-transaction-voiding" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-transaction-voiding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-transaction-voiding">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-vendor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-vendor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-vendor">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnc-module" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnc-module" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-gnc-module" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-gnc-module" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-agedver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-agedver" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-agedver">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-dynload" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-dynload" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-dynload">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-incompatdep" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-incompatdep" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-incompatdep">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-load-c" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-load-c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-load-c">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-modsysver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-modsysver" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-modsysver">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod_agedver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod_agedver" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod_futuremodsys" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod_futuremodsys" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod_incompatdep" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod_incompatdep" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="bar" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmodbar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmodbar" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="baz" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="baz" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmodbaz" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmodbaz" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="foo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="foo" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmodfoo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmodfoo" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-gnome-search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-gnome-search" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-gnome-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-gnome-utils" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-gnome-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-gnome-utils" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-gnome-utils-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-gnome-utils-1" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-gnome-utils-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-gnome-utils-2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnome-utils-gschema" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnome-utils-gschema" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-module-gnome-utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-module-gnome-utils" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-module-gnome-utils">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnc-gnome" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnc-gnome" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnucash-appdata" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnucash-appdata" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnucash-desktop" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnucash-desktop" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnome-gschema" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnome-gschema" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-html" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-html" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-generic-import" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-generic-import" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-aqbanking" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-aqbanking" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="aqb-gschema" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="aqb-gschema" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-csv-export" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-csv-export" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="csv-exp-gschema" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="csv-exp-gschema" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-csv-import" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-csv-import" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="csv-imp-gschema" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="csv-imp-gschema" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-csv-imp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-csv-imp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-csv-imp">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="generic-import-gschema" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="generic-import-gschema" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-log-replay" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-log-replay" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-ofx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-ofx" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ofx-gschema" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="ofx-gschema" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-ofx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-ofx" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-ofx">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-qif-import" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-qif-import" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-qif-import" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-qif-import" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-qif-import-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-qif-import-2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="qif-imp-gschema" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="qif-imp-gschema" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-qif-imp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-qif-imp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-qif-imp">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-qif" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-qif" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-import-parse" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-import-parse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-import-parse">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-generic-import" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-generic-import" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-generic-import">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnc-qof" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gnc-qof" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-qof" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-qof" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-qof">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="swig-gnucash-core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="swig-gnucash-core" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-bi_import" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-bi_import" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-customer_import" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-customer_import" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="quotes-bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="quotes-bin" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="quotes-man" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="quotes-man" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-ledger-core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-ledger-core" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-module-ledger-core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-module-ledger-core" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-module-ledger-core">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-register-core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-register-core" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-module-register-core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-module-register-core" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-module-register-core">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-register-gnome" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-register-gnome" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-module-register-gnome" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-module-register-gnome" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-module-register-gnome">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-business-reports" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-business-reports" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-business-reports-links" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-business-reports-links" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-locale-reports-us" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-locale-reports-us" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-locale-specific-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-locale-specific-1" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-locale-specific-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-locale-specific-2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-module-report-locale-specific-us" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-module-report-locale-specific-us" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-module-report-locale-specific-us">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-report-gnome" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-report-gnome" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-gnome" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-gnome" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-module-report-gnome" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-module-report-gnome" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-module-report-gnome">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-report-system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-report-system" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-system" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-system-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-system-2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-system-3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-system-3" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-test-report-system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-test-report-system" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-module-report-system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-module-report-system" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-module-report-system">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-standard-reports" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-standard-reports" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-standard-reports" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-standard-reports" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-standard-reports-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-standard-reports-2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-standard-reports-2-links" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-standard-reports-2-links" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-standard-reports-links" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-standard-reports-links" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-test-standard-reports" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-test-standard-reports" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-stylesheets" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-stylesheets" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-stylesheets" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-stylesheets" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-stylesheets-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-stylesheets-1" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-stylesheets-1-links" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-stylesheets-1-links" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-stylesheets-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-stylesheets-2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-report-stylesheets-2-links" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-report-stylesheets-2-links" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-utility-reports" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-utility-reports" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-utility-reports" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-utility-reports" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-utility-reports-links" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-utility-reports-links" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-scm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-scm" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-scm-0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-scm-0" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-scm-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-scm-1" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-scm-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-scm-2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-scm-3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-scm-3" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-gnumeric" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-gnumeric" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gncmod-tax-us" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="gncmod-tax-us" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-tax-us-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-tax-us-1" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-tax-us-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-tax-us-2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-link-module-tax-us" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-link-module-tax-us" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="test-link-module-tax-us">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scm-test-core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="scm-test-core" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="swig-unittest-support-python" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="swig-unittest-support-python" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-core" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test-core-guile" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gnucash" TARGET_NAME="test-core-guile" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gnucash" RUN_TARGET_NAME="gnucash" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs>
+        <env name="TZ" value="'Asia/Tehran'" />
+      </envs>
+      <method />
+    </configuration>
+    <list size="188">
+      <item index="0" class="java.lang.String" itemvalue="Application.check" />
+      <item index="1" class="java.lang.String" itemvalue="Application.compiled-schemas" />
+      <item index="2" class="java.lang.String" itemvalue="Application.po-gmo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.po-gmo-build" />
+      <item index="4" class="java.lang.String" itemvalue="Application.gncmod-app-utils" />
+      <item index="5" class="java.lang.String" itemvalue="Application.scm-app-utils" />
+      <item index="6" class="java.lang.String" itemvalue="Application.scm-app-utils-1" />
+      <item index="7" class="java.lang.String" itemvalue="Application.scm-app-utils-2" />
+      <item index="8" class="java.lang.String" itemvalue="Application.scm-app-utils-3" />
+      <item index="9" class="java.lang.String" itemvalue="Application.scm-gettext" />
+      <item index="10" class="java.lang.String" itemvalue="Application.swig-app-utils-python" />
+      <item index="11" class="java.lang.String" itemvalue="Application.test-exp-parser" />
+      <item index="12" class="java.lang.String" itemvalue="Application.test-link-module" />
+      <item index="13" class="java.lang.String" itemvalue="Application.test-print-parse-amount" />
+      <item index="14" class="java.lang.String" itemvalue="Application.test-scm-query-string" />
+      <item index="15" class="java.lang.String" itemvalue="Application.test-sx" />
+      <item index="16" class="java.lang.String" itemvalue="Application.gncmod-backend-dbi" />
+      <item index="17" class="java.lang.String" itemvalue="Application.gncmod-backend-dbi-link" />
+      <item index="18" class="java.lang.String" itemvalue="Application.test-backend-dbi" />
+      <item index="19" class="java.lang.String" itemvalue="Application.gnc-backend-sql" />
+      <item index="20" class="java.lang.String" itemvalue="Application.test-column-types" />
+      <item index="21" class="java.lang.String" itemvalue="Application.test-sqlbe" />
+      <item index="22" class="java.lang.String" itemvalue="Application.gnc-backend-xml-utils" />
+      <item index="23" class="java.lang.String" itemvalue="Application.gncmod-backend-xml" />
+      <item index="24" class="java.lang.String" itemvalue="Application.gncmod-backend-xml-link" />
+      <item index="25" class="java.lang.String" itemvalue="Application.gncmod-backend-xml-utils" />
+      <item index="26" class="java.lang.String" itemvalue="Application.test-date-converting" />
+      <item index="27" class="java.lang.String" itemvalue="Application.test-dom-converters1" />
+      <item index="28" class="java.lang.String" itemvalue="Application.test-kvp-frames" />
+      <item index="29" class="java.lang.String" itemvalue="Application.test-load-backend" />
+      <item index="30" class="java.lang.String" itemvalue="Application.test-load-example-account" />
+      <item index="31" class="java.lang.String" itemvalue="Application.test-load-xml2" />
+      <item index="32" class="java.lang.String" itemvalue="Application.test-string-converters" />
+      <item index="33" class="java.lang.String" itemvalue="Application.test-xml-account" />
+      <item index="34" class="java.lang.String" itemvalue="Application.test-xml-commodity" />
+      <item index="35" class="java.lang.String" itemvalue="Application.test-xml-pricedb" />
+      <item index="36" class="java.lang.String" itemvalue="Application.test-xml-transaction" />
+      <item index="37" class="java.lang.String" itemvalue="Application.test-xml2-is-file" />
+      <item index="38" class="java.lang.String" itemvalue="Application.gnucash" />
+      <item index="39" class="java.lang.String" itemvalue="Application.gncmod-business-gnome" />
+      <item index="40" class="java.lang.String" itemvalue="Application.scm-business-gnome" />
+      <item index="41" class="java.lang.String" itemvalue="Application.business-gnome-gschema" />
+      <item index="42" class="java.lang.String" itemvalue="Application.gnc-business-ledger" />
+      <item index="43" class="java.lang.String" itemvalue="Application.gnc-core-utils" />
+      <item index="44" class="java.lang.String" itemvalue="Application.gnc-vcs-info" />
+      <item index="45" class="java.lang.String" itemvalue="Application.scm-core-utils" />
+      <item index="46" class="java.lang.String" itemvalue="Application.swig-core-utils-python" />
+      <item index="47" class="java.lang.String" itemvalue="Application.test-gnc-glib-utils" />
+      <item index="48" class="java.lang.String" itemvalue="Application.test-gnc-uri-utils" />
+      <item index="49" class="java.lang.String" itemvalue="Application.test-resolve-file-path" />
+      <item index="50" class="java.lang.String" itemvalue="Application.gnucash-design.texi" />
+      <item index="51" class="java.lang.String" itemvalue="Application.gncmod-engine" />
+      <item index="52" class="java.lang.String" itemvalue="Application.scm-engine" />
+      <item index="53" class="java.lang.String" itemvalue="Application.scm-engine-0" />
+      <item index="54" class="java.lang.String" itemvalue="Application.scm-engine-1" />
+      <item index="55" class="java.lang.String" itemvalue="Application.gncmod-test-engine" />
+      <item index="56" class="java.lang.String" itemvalue="Application.scm-test-engine" />
+      <item index="57" class="java.lang.String" itemvalue="Application.test-account-object" />
+      <item index="58" class="java.lang.String" itemvalue="Application.test-address" />
+      <item index="59" class="java.lang.String" itemvalue="Application.test-business" />
+      <item index="60" class="java.lang.String" itemvalue="Application.test-commodities" />
+      <item index="61" class="java.lang.String" itemvalue="Application.test-customer" />
+      <item index="62" class="java.lang.String" itemvalue="Application.test-date" />
+      <item index="63" class="java.lang.String" itemvalue="Application.test-employee" />
+      <item index="64" class="java.lang.String" itemvalue="Application.test-engine" />
+      <item index="65" class="java.lang.String" itemvalue="Application.test-group-vs-book" />
+      <item index="66" class="java.lang.String" itemvalue="Application.test-guid" />
+      <item index="67" class="java.lang.String" itemvalue="Application.test-job" />
+      <item index="68" class="java.lang.String" itemvalue="Application.test-link" />
+      <item index="69" class="java.lang.String" itemvalue="Application.test-load-engine" />
+      <item index="70" class="java.lang.String" itemvalue="Application.test-lots" />
+      <item index="71" class="java.lang.String" itemvalue="Application.test-numeric" />
+      <item index="72" class="java.lang.String" itemvalue="Application.test-object" />
+      <item index="73" class="java.lang.String" itemvalue="Application.test-query" />
+      <item index="74" class="java.lang.String" itemvalue="Application.test-querynew" />
+      <item index="75" class="java.lang.String" itemvalue="Application.test-recurrence" />
+      <item index="76" class="java.lang.String" itemvalue="Application.test-scm-query" />
+      <item index="77" class="java.lang.String" itemvalue="Application.test-split-vs-account" />
+      <item index="78" class="java.lang.String" itemvalue="Application.test-transaction-reversal" />
+      <item index="79" class="java.lang.String" itemvalue="Application.test-transaction-voiding" />
+      <item index="80" class="java.lang.String" itemvalue="Application.test-vendor" />
+      <item index="81" class="java.lang.String" itemvalue="Application.gnc-module" />
+      <item index="82" class="java.lang.String" itemvalue="Application.scm-gnc-module" />
+      <item index="83" class="java.lang.String" itemvalue="Application.test-agedver" />
+      <item index="84" class="java.lang.String" itemvalue="Application.test-dynload" />
+      <item index="85" class="java.lang.String" itemvalue="Application.test-incompatdep" />
+      <item index="86" class="java.lang.String" itemvalue="Application.test-load-c" />
+      <item index="87" class="java.lang.String" itemvalue="Application.test-modsysver" />
+      <item index="88" class="java.lang.String" itemvalue="Application.gncmod_agedver" />
+      <item index="89" class="java.lang.String" itemvalue="Application.gncmod_futuremodsys" />
+      <item index="90" class="java.lang.String" itemvalue="Application.gncmod_incompatdep" />
+      <item index="91" class="java.lang.String" itemvalue="Application.bar" />
+      <item index="92" class="java.lang.String" itemvalue="Application.gncmodbar" />
+      <item index="93" class="java.lang.String" itemvalue="Application.baz" />
+      <item index="94" class="java.lang.String" itemvalue="Application.gncmodbaz" />
+      <item index="95" class="java.lang.String" itemvalue="Application.foo" />
+      <item index="96" class="java.lang.String" itemvalue="Application.gncmodfoo" />
+      <item index="97" class="java.lang.String" itemvalue="Application.gncmod-gnome-search" />
+      <item index="98" class="java.lang.String" itemvalue="Application.gncmod-gnome-utils" />
+      <item index="99" class="java.lang.String" itemvalue="Application.scm-gnome-utils" />
+      <item index="100" class="java.lang.String" itemvalue="Application.scm-gnome-utils-1" />
+      <item index="101" class="java.lang.String" itemvalue="Application.scm-gnome-utils-2" />
+      <item index="102" class="java.lang.String" itemvalue="Application.gnome-utils-gschema" />
+      <item index="103" class="java.lang.String" itemvalue="Application.test-link-module-gnome-utils" />
+      <item index="104" class="java.lang.String" itemvalue="Application.gnc-gnome" />
+      <item index="105" class="java.lang.String" itemvalue="Application.gnucash-appdata" />
+      <item index="106" class="java.lang.String" itemvalue="Application.gnucash-desktop" />
+      <item index="107" class="java.lang.String" itemvalue="Application.gnome-gschema" />
+      <item index="108" class="java.lang.String" itemvalue="Application.gncmod-html" />
+      <item index="109" class="java.lang.String" itemvalue="Application.gncmod-generic-import" />
+      <item index="110" class="java.lang.String" itemvalue="Application.gncmod-aqbanking" />
+      <item index="111" class="java.lang.String" itemvalue="Application.aqb-gschema" />
+      <item index="112" class="java.lang.String" itemvalue="Application.gncmod-csv-export" />
+      <item index="113" class="java.lang.String" itemvalue="Application.csv-exp-gschema" />
+      <item index="114" class="java.lang.String" itemvalue="Application.gncmod-csv-import" />
+      <item index="115" class="java.lang.String" itemvalue="Application.csv-imp-gschema" />
+      <item index="116" class="java.lang.String" itemvalue="Application.test-csv-imp" />
+      <item index="117" class="java.lang.String" itemvalue="Application.generic-import-gschema" />
+      <item index="118" class="java.lang.String" itemvalue="Application.gncmod-log-replay" />
+      <item index="119" class="java.lang.String" itemvalue="Application.gncmod-ofx" />
+      <item index="120" class="java.lang.String" itemvalue="Application.ofx-gschema" />
+      <item index="121" class="java.lang.String" itemvalue="Application.test-link-ofx" />
+      <item index="122" class="java.lang.String" itemvalue="Application.gncmod-qif-import" />
+      <item index="123" class="java.lang.String" itemvalue="Application.scm-qif-import" />
+      <item index="124" class="java.lang.String" itemvalue="Application.scm-qif-import-2" />
+      <item index="125" class="java.lang.String" itemvalue="Application.qif-imp-gschema" />
+      <item index="126" class="java.lang.String" itemvalue="Application.test-link-qif-imp" />
+      <item index="127" class="java.lang.String" itemvalue="Application.gncmod-qif" />
+      <item index="128" class="java.lang.String" itemvalue="Application.test-import-parse" />
+      <item index="129" class="java.lang.String" itemvalue="Application.test-link-generic-import" />
+      <item index="130" class="java.lang.String" itemvalue="Application.gnc-qof" />
+      <item index="131" class="java.lang.String" itemvalue="Application.test-qof" />
+      <item index="132" class="java.lang.String" itemvalue="Application.swig-gnucash-core" />
+      <item index="133" class="java.lang.String" itemvalue="Application.gncmod-bi_import" />
+      <item index="134" class="java.lang.String" itemvalue="Application.gncmod-customer_import" />
+      <item index="135" class="java.lang.String" itemvalue="Application.quotes-bin" />
+      <item index="136" class="java.lang.String" itemvalue="Application.quotes-man" />
+      <item index="137" class="java.lang.String" itemvalue="Application.gncmod-ledger-core" />
+      <item index="138" class="java.lang.String" itemvalue="Application.test-link-module-ledger-core" />
+      <item index="139" class="java.lang.String" itemvalue="Application.gncmod-register-core" />
+      <item index="140" class="java.lang.String" itemvalue="Application.test-link-module-register-core" />
+      <item index="141" class="java.lang.String" itemvalue="Application.gncmod-register-gnome" />
+      <item index="142" class="java.lang.String" itemvalue="Application.test-link-module-register-gnome" />
+      <item index="143" class="java.lang.String" itemvalue="Application.scm-business-reports" />
+      <item index="144" class="java.lang.String" itemvalue="Application.scm-business-reports-links" />
+      <item index="145" class="java.lang.String" itemvalue="Application.gncmod-locale-reports-us" />
+      <item index="146" class="java.lang.String" itemvalue="Application.scm-report-locale-specific-1" />
+      <item index="147" class="java.lang.String" itemvalue="Application.scm-report-locale-specific-2" />
+      <item index="148" class="java.lang.String" itemvalue="Application.test-link-module-report-locale-specific-us" />
+      <item index="149" class="java.lang.String" itemvalue="Application.gncmod-report-gnome" />
+      <item index="150" class="java.lang.String" itemvalue="Application.scm-report-gnome" />
+      <item index="151" class="java.lang.String" itemvalue="Application.test-link-module-report-gnome" />
+      <item index="152" class="java.lang.String" itemvalue="Application.gncmod-report-system" />
+      <item index="153" class="java.lang.String" itemvalue="Application.scm-report-system" />
+      <item index="154" class="java.lang.String" itemvalue="Application.scm-report-system-2" />
+      <item index="155" class="java.lang.String" itemvalue="Application.scm-report-system-3" />
+      <item index="156" class="java.lang.String" itemvalue="Application.scm-test-report-system" />
+      <item index="157" class="java.lang.String" itemvalue="Application.test-link-module-report-system" />
+      <item index="158" class="java.lang.String" itemvalue="Application.gncmod-standard-reports" />
+      <item index="159" class="java.lang.String" itemvalue="Application.scm-standard-reports" />
+      <item index="160" class="java.lang.String" itemvalue="Application.scm-standard-reports-2" />
+      <item index="161" class="java.lang.String" itemvalue="Application.scm-standard-reports-2-links" />
+      <item index="162" class="java.lang.String" itemvalue="Application.scm-standard-reports-links" />
+      <item index="163" class="java.lang.String" itemvalue="Application.scm-test-standard-reports" />
+      <item index="164" class="java.lang.String" itemvalue="Application.gncmod-stylesheets" />
+      <item index="165" class="java.lang.String" itemvalue="Application.scm-report-stylesheets" />
+      <item index="166" class="java.lang.String" itemvalue="Application.scm-report-stylesheets-1" />
+      <item index="167" class="java.lang.String" itemvalue="Application.scm-report-stylesheets-1-links" />
+      <item index="168" class="java.lang.String" itemvalue="Application.scm-report-stylesheets-2" />
+      <item index="169" class="java.lang.String" itemvalue="Application.scm-report-stylesheets-2-links" />
+      <item index="170" class="java.lang.String" itemvalue="Application.gncmod-utility-reports" />
+      <item index="171" class="java.lang.String" itemvalue="Application.scm-utility-reports" />
+      <item index="172" class="java.lang.String" itemvalue="Application.scm-utility-reports-links" />
+      <item index="173" class="java.lang.String" itemvalue="Application.scm-scm" />
+      <item index="174" class="java.lang.String" itemvalue="Application.scm-scm-0" />
+      <item index="175" class="java.lang.String" itemvalue="Application.scm-scm-1" />
+      <item index="176" class="java.lang.String" itemvalue="Application.scm-scm-2" />
+      <item index="177" class="java.lang.String" itemvalue="Application.scm-scm-3" />
+      <item index="178" class="java.lang.String" itemvalue="Application.scm-gnumeric" />
+      <item index="179" class="java.lang.String" itemvalue="Application.gncmod-tax-us" />
+      <item index="180" class="java.lang.String" itemvalue="Application.scm-tax-us-1" />
+      <item index="181" class="java.lang.String" itemvalue="Application.scm-tax-us-2" />
+      <item index="182" class="java.lang.String" itemvalue="Application.test-link-module-tax-us" />
+      <item index="183" class="java.lang.String" itemvalue="Application.scm-test-core" />
+      <item index="184" class="java.lang.String" itemvalue="Application.swig-unittest-support-python" />
+      <item index="185" class="java.lang.String" itemvalue="Application.test-core" />
+      <item index="186" class="java.lang.String" itemvalue="Application.test-core-guile" />
+      <item index="187" class="java.lang.String" itemvalue="Application.Build All" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a8052b7-2083-4a0a-8db2-868003e976e4" name="Default" comment="" />
+      <created>1478144906630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478144906630</updated>
+      <workItem from="1478144908313" duration="13333000" />
+      <workItem from="1478222446086" duration="14409000" />
+      <workItem from="1478248926275" duration="889000" />
+      <workItem from="1478249859588" duration="2813000" />
+      <workItem from="1478253845552" duration="204000" />
+      <workItem from="1478482814848" duration="4473000" />
+      <workItem from="1478487853022" duration="1011000" />
+      <workItem from="1478488886708" duration="11237000" />
+      <workItem from="1478508919159" duration="4816000" />
+      <workItem from="1478568239016" duration="24262000" />
+      <workItem from="1478655551250" duration="20046000" />
+      <workItem from="1478742840925" duration="24387000" />
+      <workItem from="1478827373605" duration="3122000" />
+      <workItem from="1479087790018" duration="18269000" />
+      <workItem from="1479175327044" duration="19518000" />
+      <workItem from="1479210789473" duration="5477000" />
+      <workItem from="1479259516925" duration="8773000" />
+      <workItem from="1479271474183" duration="16194000" />
+      <workItem from="1479298264161" duration="3840000" />
+      <workItem from="1479345509064" duration="6819000" />
+      <workItem from="1479358389567" duration="15704000" />
+      <workItem from="1479691727669" duration="19914000" />
+      <workItem from="1479778130563" duration="27750000" />
+      <workItem from="1479817409422" duration="269000" />
+      <workItem from="1480134399333" duration="7056000" />
+      <workItem from="1480392835892" duration="1073000" />
+      <workItem from="1480394314019" duration="15306000" />
+      <workItem from="1480494652173" duration="7096000" />
+      <workItem from="1480646394719" duration="18896000" />
+      <workItem from="1480905283969" duration="636000" />
+      <workItem from="1480926866554" duration="8015000" />
+      <workItem from="1480990844740" duration="22832000" />
+      <workItem from="1481076708396" duration="16516000" />
+      <workItem from="1481118667659" duration="5689000" />
+      <workItem from="1481130822356" duration="1181000" />
+      <workItem from="1481592313124" duration="241000" />
+      <workItem from="1484454551533" duration="4667000" />
+      <workItem from="1484460008871" duration="536000" />
+      <workItem from="1484540565270" duration="3570000" />
+      <workItem from="1484629919228" duration="1719000" />
+      <workItem from="1484640058634" duration="5791000" />
+      <workItem from="1484707925285" duration="9274000" />
+      <workItem from="1484731508635" duration="26000" />
+    </task>
+    <task id="LOCAL-00001" summary="Jalalian Calendar &#10;&#10;add Jalalian Calendar to GnuCash &#10;&#10;use preference date/time setting to switch between gregorian and Jalalian Calendar &#10;&#10;&#10;&#10;Date Picker is not available yet, &#10;unit test not available yet">
+      <created>1479817629151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479817629151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Jalalian Calendar &#10;">
+      <created>1480905332045</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1480905332045</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Jalalian Calendar &#10;&#10;for testing">
+      <created>1481008657497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481008657497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="397649000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="24" width="1378" height="726" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25316456" sideWeight="0.44369748" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5040953" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6268908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25316456" sideWeight="0.55630255" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31932774" sideWeight="0.4973939" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.49590468" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.4944155" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37478992" sideWeight="0.4973939" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31932774" sideWeight="0.4973939" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5040953" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6268908" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.49590468" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25316456" sideWeight="0.44369748" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.4944155" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25316456" sideWeight="0.55630255" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37478992" sideWeight="0.4973939" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Jalalian Calendar &#10;&#10;add Jalalian Calendar to GnuCash &#10;&#10;use preference date/time setting to switch between gregorian and Jalalian Calendar &#10;&#10;&#10;&#10;Date Picker is not available yet, &#10;unit test not available yet" />
+    <MESSAGE value="Jalalian Calendar &#10;" />
+    <MESSAGE value="Jalalian Calendar &#10;&#10;for testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jalalian Calendar &#10;&#10;for testing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp</url>
+          <line>606</line>
+          <option name="timeStamp" value="581" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="590" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/include/gtk-2.0/gtk/gtkcalendar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gnome-utils/Makefile.am">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="186" column="20" selection-start-line="186" selection-start-column="20" selection-end-line="186" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/register/register-gnome/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gnome-utils/gnucash-calendar.h" />
+    <entry file="file://$PROJECT_DIR$/src/gnome-utils/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="204" column="20" selection-start-line="204" selection-start-column="20" selection-end-line="204" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/register/register-core/basiccell.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core-utils/calendar-gregorian-lib.c" />
+    <entry file="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/engine/swig-engine.c" />
+    <entry file="file://$PROJECT_DIR$/src/gnome-utils/dialog-utils.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2265">
+          <caret line="397" column="41" selection-start-line="397" selection-start-column="41" selection-end-line="397" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gnome-utils/gnc-date-edit.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gnome-utils/gnc-gnome-utils.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gnome-utils/gnc-gnome-utils.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="146" column="1" selection-start-line="146" selection-start-column="1" selection-end-line="146" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/register/register-core/basiccell.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="276" column="26" selection-start-line="276" selection-start-column="26" selection-end-line="276" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/register/register-gnome/datecell-gnome.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="199" column="24" selection-start-line="199" selection-start-column="24" selection-end-line="199" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gnome/assistant-acct-period.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="380" column="4" selection-start-line="380" selection-start-column="4" selection-end-line="380" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/register/register-gnome/gnucash-item-edit.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1262" column="1" selection-start-line="1262" selection-start-column="1" selection-end-line="1262" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/register/register-gnome/gnucash-date-picker.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/register/register-gnome/gnucash-date-picker.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="206" column="0" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/glib-2.0/glib/gdate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core-utils/gnc-gdate-utils.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="701" column="13" selection-start-line="701" selection-start-column="13" selection-end-line="701" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core-utils/gnc-gdate-utils.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/Recurrence.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="309" column="42" selection-start-line="309" selection-start-column="42" selection-end-line="309" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gnome-utils/dialog-preferences.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-datetime.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="160" column="0" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-date.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="998">
+          <caret line="172" column="19" selection-start-line="172" selection-start-column="19" selection-end-line="172" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gnome-utils/gnucash-calendar.c" />
+    <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-timezone.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="e#1588#1608#0" expanded="false" />
+            <element signature="e#2773#2922#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <marker date="1484731245709" expanded="true" signature="0:1751" ph="/**...*/" />
+            <marker date="1484731245709" expanded="true" signature="1799:1908" ph="..." />
+            <marker date="1484731245709" expanded="true" signature="26435:26509" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="26620:27507" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="27650:27961" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="28026:28330" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="28429:29622" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="28824:28976" ph="/.../" />
+            <marker date="1484731245709" expanded="true" signature="29708:30520" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="30700:30767" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="30769:30975" ph="/**...*/" />
+            <marker date="1484731245709" expanded="true" signature="31204:31620" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="31828:32488" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="32558:32810" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="32947:33344" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="33404:33470" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="33533:33600" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="33667:34533" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34727:34771" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34797:34884" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34924:34949" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="35143:35402" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="33506:33717" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="33756:33934" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34002:34136" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34202:34334" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34386:34523" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34573:34708" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34819:34864" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34908:34951" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="34994:35087" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="35128:35219" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="35275:35473" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="35475:35636" ph="/.../" />
+            <marker date="1484731245709" expanded="true" signature="35702:35878" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="35941:35971" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="36005:36288" ph="{...}" />
+            <marker date="1484731245709" expanded="true" signature="36328:36440" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-datetime.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+          <folding>
+            <marker date="1484731241179" expanded="true" signature="0:1611" ph="/**...*/" />
+            <marker date="1484731241179" expanded="false" signature="1635:1667" ph="..." />
+            <marker date="1484731241179" expanded="true" signature="9170:9172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/platform.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <marker date="1481124512153" expanded="true" signature="2099:2182" ph="..." />
+            <marker date="1481124512153" expanded="true" signature="2256:2283" ph="..." />
+            <marker date="1481124512153" expanded="true" signature="2515:2543" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.sub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2592">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.h.cmake.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6825">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile.am">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AUTHORS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aclocal.m4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChangeLog">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autogen.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="95" column="54" selection-start-line="95" selection-start-column="54" selection-end-line="95" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configure.ac">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="819" column="3" selection-start-line="819" selection-start-column="3" selection-end-line="819" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configure">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="23352" column="11" selection-start-line="23352" selection-start-column="11" selection-end-line="23352" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#9519#9540#0" expanded="false" />
+            <element signature="e#9624#9645#0" expanded="false" />
+            <element signature="e#9733#9767#0" expanded="false" />
+            <element signature="e#9838#9862#0" expanded="false" />
+            <element signature="e#9938#9962#0" expanded="false" />
+            <element signature="e#10213#10276#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/test/gnucash/engine/test/test-extras.scm" />
+    <entry file="file://$PROJECT_DIR$/src/engine/test/test-extras.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2592">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libqof/qof/test/test-gnc-date.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="1113" column="21" selection-start-line="1113" selection-start-column="21" selection-end-line="1113" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="263" column="5" selection-start-line="263" selection-start-column="5" selection-end-line="263" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app-utils/migratable-prefs.xml" />
+    <entry file="file://$PROJECT_DIR$/src/app-utils/test/test-load-module" />
+    <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-jalali.c" />
+    <entry file="file://$PROJECT_DIR$/src/gnome/gnc-split-reg.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1484731541183" expanded="true" signature="8317:9046" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="9093:9538" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="9663:14089" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="9750:9861" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="14260:14746" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="14799:15037" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="15091:15333" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="15383:15680" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="15731:17265" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="17324:17673" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="17739:17742" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="17744:17803" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="17849:17987" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="17990:18106" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="18452:19063" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="19135:22060" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="22127:22915" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="22717:22826" ph="/.../" />
+            <marker date="1484731541183" expanded="true" signature="22981:23032" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="23034:23108" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="23165:23239" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="23306:23358" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="23360:23435" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="23493:23568" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="23636:23689" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="23691:23767" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="23826:23902" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="23972:24070" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="24072:24130" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="24193:24271" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="24342:24441" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="24443:24501" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="24564:24643" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="24715:24815" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="24817:24878" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="24943:25023" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="25025:25516" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="25585:25619" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="25684:25763" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="25765:26258" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="26329:26363" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="26430:26511" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="26513:27004" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="27076:27825" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="27893:27975" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="28048:29571" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="29641:31742" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="31285:31452" ph="/.../" />
+            <marker date="1484731541183" expanded="true" signature="31744:31796" ph="/**...*/" />
+            <marker date="1484731541183" expanded="true" signature="31872:31953" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="32060:34534" ph="{...}" />
+            <marker date="1484731541183" expanded="true" signature="34645:71275" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/app-utils/swig-app-utils-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/app-utils/swig-app-utils-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/core-utils/swig-core-utils-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/core-utils/swig-core-utils-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/engine/swig-engine.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/engine/swig-engine.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnc-module/swig-gnc-module.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnc-module/swig-gnc-module.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnome-utils/gnc-warnings.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnome-utils/gnc-warnings.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnome-utils/swig-gnome-utils.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnome-utils/swig-gnome-utils.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnome/swig-gnome.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnome/swig-gnome.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/html/swig-gnc-html.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/html/swig-gnc-html.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/report/report-gnome/swig-report-gnome.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/report/report-gnome/swig-report-gnome.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/report/report-system/swig-report-system.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/report/report-system/swig-report-system.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/test-core/swig-unittest-support-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/test-core/swig-unittest-support-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/app-utils/swig-app-utils-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/app-utils/swig-app-utils-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/core-utils/swig-core-utils-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/core-utils/swig-core-utils-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/engine/swig-engine.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/engine/swig-engine.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnc-module/swig-gnc-module.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnc-module/swig-gnc-module.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnome-utils/gnc-warnings.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnome-utils/gnc-warnings.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnome-utils/swig-gnome-utils.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnome-utils/swig-gnome-utils.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnome/swig-gnome.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnome/swig-gnome.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/html/swig-gnc-html.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/html/swig-gnc-html.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/report/report-gnome/swig-report-gnome.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/report/report-gnome/swig-report-gnome.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/report/report-system/swig-report-system.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/report/report-system/swig-report-system.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/test-core/swig-unittest-support-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/test-core/swig-unittest-support-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/app-utils/swig-app-utils-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/app-utils/swig-app-utils-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/core-utils/swig-core-utils-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/core-utils/swig-core-utils-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/engine/swig-engine.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/engine/swig-engine.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnc-module/swig-gnc-module.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnc-module/swig-gnc-module.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnome-utils/gnc-warnings.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnome-utils/gnc-warnings.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnome-utils/swig-gnome-utils.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnome-utils/swig-gnome-utils.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnome/swig-gnome.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnome/swig-gnome.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/html/swig-gnc-html.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/html/swig-gnc-html.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/report/report-gnome/swig-report-gnome.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/report/report-gnome/swig-report-gnome.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/report/report-system/swig-report-system.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/report/report-system/swig-report-system.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/test-core/swig-unittest-support-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/test-core/swig-unittest-support-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/app-utils/swig-app-utils-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/app-utils/swig-app-utils-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/core-utils/swig-core-utils-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/core-utils/swig-core-utils-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/engine/swig-engine.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/engine/swig-engine.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnc-module/swig-gnc-module.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnc-module/swig-gnc-module.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnome-utils/gnc-warnings.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnome-utils/gnc-warnings.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnome-utils/swig-gnome-utils.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnome-utils/swig-gnome-utils.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnome/swig-gnome.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnome/swig-gnome.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/html/swig-gnc-html.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/html/swig-gnc-html.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/report/report-gnome/swig-report-gnome.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/report/report-gnome/swig-report-gnome.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/report/report-system/swig-report-system.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/report/report-system/swig-report-system.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/test-core/swig-unittest-support-guile.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/test-core/swig-unittest-support-guile.c" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/po/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/checks/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html-webkit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html-history.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html-extras.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html-webkit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html-history.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html-webkit-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gncmod-html.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html-factory.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/html/gnc-html-factory.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/quotes/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/gnc-plugin-bi-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/dialog-bi-import-gui.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/gtkbuilder/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/gnc-plugin-bi-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/ui/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/dialog-bi-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/dialog-bi-import-helper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/dialog-bi-import-helper.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/dialog-bi-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/dialog-bi-import-gui.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/bi_import/gncmod-bi-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/gtkbuilder/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/gnc-plugin-customer_import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/dialog-customer-import-gui.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/libgncmod-customer_import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/dialog-customer-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/dialog-customer-import-gui.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/dialog-customer-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/gnc-plugin-customer_import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/plugins/customer_import/ui/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-owner-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/test/test-column-types.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/test/utest-gnc-backend-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/test/test-sqlbe.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-sql-result.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-address-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-account-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-vendor-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-recurrence-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-sql-connection.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-lots-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-recurrence-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-sql-column-table-entry.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-sql-object-backend.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-schedxaction-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-budget-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-tax-table-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-slots-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-tax-table-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-price-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-bill-term-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-vendor-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-transaction-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-employee-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-job-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-schedxaction-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-slots-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-job-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-account-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-order-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-transaction-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-sql-result.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-commodity-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-customer-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-sql-backend.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-commodity-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-book-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-bill-term-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-price-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-entry-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-book-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-budget-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-sql-backend.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-customer-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-entry-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/escape.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-invoice-sql.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-invoice-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-sql-object-backend.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/escape.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-employee-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-lots-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-order-sql.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/sql/gnc-sql-column-table-entry.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/test/test-dbi-business-stuff.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/test/test-dbi-business-stuff.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/test/test-backend-dbi-basic.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/test/test-backend-dbi.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/test/test-dbi-stuff.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/test/test-dbi-stuff.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/gnc-backend-dbi.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/gnc-dbisqlresult.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/gnc-dbiprovider.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/gnc-backend-dbi.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/gnc-dbisqlresult.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/gnc-dbisqlconnection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/gnc-backend-dbi.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/dbi/gnc-dbisqlconnection.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-invoice-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-address-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-dom-parsers.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-invoice-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-transaction-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-gncxml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-job-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-stack.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-recurrence-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-commodity-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-customer-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-employee-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-order-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-order-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-example-account.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-owner-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-xml-helper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-xml-helper.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-entry-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-vendor-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-stack.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-pricedb-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-lot-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-bill-term-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-address-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-utils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-gncxml-gen.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-xml-backend.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-backend-xml.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-tax-table-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-schedxaction-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-vendor-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-xml.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-account-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-employee-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-gncxml-gen.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-gncxml-v1.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-owner-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-budget-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-bill-term-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-job-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-dom-generators.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-to-dom-parser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-tax-table-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-utils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-entry-xml-v2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/xml-helpers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-dom-generators.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-gncxml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-freqspec-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-backend-xml.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-example-account.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/io-gncxml.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-customer-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-xml-backend.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-parsers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/gnc-book-xml-v2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/sixtp-dom-parsers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-file-stuff.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-string-converters.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-xml2-is-file.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-xml-account.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-dom-converters1.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-load-backend.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-kvp-frames.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-xml-transaction.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-xml-pricedb.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-xml-commodity.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-load-example-account.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-date-converting.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-load-xml2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/xml/test/test-file-stuff.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-engine.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/commodity-table.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/TransLog.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/cashobjects.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncJobP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncInvoiceP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/engine-helpers-guile.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Scrub.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncTaxTable.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/engine.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-lot.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Scrub.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncTaxTable.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/SX-book.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-hooks.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/cap-gains.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/SX-book.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/ScrubBusiness.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncEmployee.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Query.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/AccountP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Transaction.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Query.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-budget.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-session.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncJob.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Split.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncmod-engine.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/policy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Split.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncCustomer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/glib-helpers.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-pricedb.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/policy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/kvp-scm.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncOrder.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/SchedXaction.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncBillTerm.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncEmployee.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/SchedXaction.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncBillTerm.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/SX-ttinfo.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncVendorP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test-core/test-engine-stuff.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test-core/gncmod-test-engine.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test-core/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test-core/test-engine-stuff.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Scrub2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncVendor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/SX-ttinfo.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncOrder.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncCustomer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Scrub2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncTaxTableP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncOrderP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/SplitP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/TransactionP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncAddressP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-event.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Scrub3.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Transaction.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-event.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncOwnerP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/ScrubP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Scrub3.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncInvoice.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncVendor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/engine-utilities.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncInvoice.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncEmployeeP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncAddress.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/kvp-scm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncAddress.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-commodity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-hooks.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-lot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-commodity.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-session.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-hooks-scm.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncIDSearch.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-lot-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-budget.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncIDSearch.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/engine-interface.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/ScrubBusiness.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncOwner.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-pricedb-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncEntry.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Recurrence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncOwner.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/engine-helpers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/cashobjects.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Recurrence.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/glib-helpers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/engine-helpers.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncEntryP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/cap-gains.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncBusiness.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-pricedb.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncBusGuile.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/policy-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncBusiness.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-numeric.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncBillTermP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncCustomerP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/FreqSpec.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncBusGuile.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/TransLog.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncEntry.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Account.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/business-core.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gncJob.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/gnc-engine.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/Account.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-object.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-transaction-voiding.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/utest-Invoice.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-employee.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-engine-kvp-properties.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-group-vs-book.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/utest-Split.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-engine.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/utest-gnc-pricedb.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-load-engine.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-lots.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-date.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-job.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-scm-query.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-guid.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-address.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-business.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-vendor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-transaction-reversal.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/utest-Budget.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/utest-Account.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/utest-Entry.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-querynew.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-numeric.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-recurrence.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-customer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-query.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-account-object.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/utest-Transaction.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-link.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-extras.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-split-vs-account.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine/test/test-commodities.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-gui-query.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-split-reg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-book-close.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-split-reg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-book-close.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-query-view.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-split-reg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-query-view.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-query-view.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/account-quickfill.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-embedded-window.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/cursors.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-budget.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-embedded-window.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/window-main-summarybar.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnome-utils.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/window-main-summarybar.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin-manager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-sx-list-tree-model-adapter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-icons.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-dense-cal-model.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-icons.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-commodity-edit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-period-select.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-split-reg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-dup-trans.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-transfer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-autosave.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-account.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-splash.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-autosave.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-account.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-splash.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-owner.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/assistant-xml-encoding.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-commodity-edit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-commodity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-account-types.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/assistant-xml-encoding.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-cell-renderer-popup-entry.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-dense-cal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-commodity.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-account-types.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-date-delta.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/test/test-link-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-date-delta.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-sx-instance-dense-cal-adapter.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-frequency.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-menu-extensions.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-frequency.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-preferences.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-ui.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-price.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-cell-renderer-popup.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-main-window.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-main-window.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin-page.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-account.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-query-view.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-account.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-commodity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-cell-renderer-popup-entry.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-price.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-dense-cal-store.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/account-quickfill.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-price.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin-manager.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-dense-cal-store.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-gtk-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-window.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-cell-renderer-popup.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-window.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-currency-edit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-account-sel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-sx-instance-dense-cal-adapter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-menu-extensions.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-account-sel.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-gtk-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/tree-view-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-general-select.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-control-split-reg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-options.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-gnome-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-sx-list.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-general-select.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-control-split-reg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-options.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-gnome-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/tree-view-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-combott.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-owner.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-reset-warnings.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-reset-warnings.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-menu-extensions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-keyring.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-amount-edit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-gobject-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-date-edit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-totd.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-amount-edit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-gobject-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-date-edit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/print-session.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/search-param.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/print-session.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/ui/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-totd.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/search-param.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-dup-trans.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-keyring.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-dense-cal-model.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-transfer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-owner.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-budget.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-cell-renderer-date.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-price.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin-menu-additions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-sx-list-tree-model-adapter.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-cell-renderer-date.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-owner.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin-menu-additions.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/misc-gnome-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-userpass.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/misc-gnome-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-util-split-reg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-tax-table.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin-file-history.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-util-split-reg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-tax-table.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin-file-history.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-currency-edit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-preferences.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-commodity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-model-commodity.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gtkbuilder/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gschemas/org.gnucash.history.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gschemas/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gschemas/org.gnucash.warnings.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-plugin-page.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-file.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-period-select.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-sx-list.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-tree-view-commodity.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-file.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-date-format.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-account.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-combott.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-date-format.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-dense-cal.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-file-access.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-recurrence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-file-access.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-recurrence.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gncmod-gnome-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-object-references.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/gnc-gui-query.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-account.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-utils/dialog-object-references.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-progress.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnucash.desktop.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-register2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-account-tree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-register2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/top-level.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-sx-list.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/ui/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-new-user.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-sx-list.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/window-reconcile2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-register.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/assistant-acct-period.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-register.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-price-edit-db.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-sx-since-last-run.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gtkbuilder/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-sx-since-last-run.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-print-check.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-find-transactions2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-budget.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/reconcile-view.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-find-transactions2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-budget.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/reconcile-view.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/top-level.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-register.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/assistant-loan.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-register.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/assistant-loan.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-price-editor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/org.gnucash.window.pages.account.tree.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/org.gnucash.window.pages.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/org.gnucash.dialogs.checkprinting.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/org.gnucash.dialogs.sxs.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/org.gnucash.dialogs.commodities.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/org.gnucash.dialogs.totd.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/org.gnucash.dialogs.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/org.gnucash.dialogs.reconcile.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gschemas/org.gnucash.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-find-account.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-new-user.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-imap-editor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-find-transactions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-imap-editor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnucash.appdata.xml.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-find-transactions.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-basic-commands.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-split-reg2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-basic-commands.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-budget.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-account-tree.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-split-reg2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-split-reg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-fincalc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-split-reg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-lot-viewer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-fincalc.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-sx-editor2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-lot-viewer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-sx-editor2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/window-autoclear.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/assistant-stock-split.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/window-autoclear.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-register2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-sx-editor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-trans-assoc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-page-register2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/window-reconcile2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-account-tree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-trans-assoc.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-budget-view.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/assistant-hierarchy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/assistant-stock-split.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-account-tree.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-budget-view.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-commodities.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/assistant-acct-period.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-sx-from-trans.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-sx-from-trans.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-tax-info.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/window-reconcile.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/window-reconcile.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/gnc-plugin-budget.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-print-check.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/assistant-hierarchy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-sx-editor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-progress.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome/dialog-find-account.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test-core/test-stuff.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test-core/unittest-support.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test-core/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test-core/unittest-support.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test-core/unittest-support.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test-core/test-stuff.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-exp-parser.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-gettext-util.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/test/test-exp-parser.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/test/test-print-parse-amount.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/test/test-sx.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/test/test-link-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/test/test-scm-query-string.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/file-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/migrate-prefs.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-basic-gobject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/guile-util.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/file-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/business-options.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-prefs-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/business-helpers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-entry-quickfill.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/hooks.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-prefs-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/calculation/fin_spl_protos.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/calculation/expression_parser.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/calculation/finvar.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/calculation/fin.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/calculation/finproto.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/calculation/fin_static_proto.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-accounting-period.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/prefs.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-state.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-component-manager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-state.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-accounting-period.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/date-utilities.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-gsettings.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/options.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-account-merge.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-gsettings.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-euro.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/guile-util.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-sx-instance-model.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-euro.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-help-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-ui-balances.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-sx-instance-model.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-gettext-util.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-ui-util.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/business-options.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/QuickFill.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-entry-quickfill.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/c-interface.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/business-options.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/QuickFill.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/business-helpers.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/option-util.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gfec.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/config-var.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-addr-quickfill.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/business-prefs.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gettext.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/simple-obj.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-ui-balances.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gncmod-app-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/app-utils.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-ui-util.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-exp-parser.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-helpers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-component-manager.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/migratable-prefs.xml.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/option-util.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-addr-quickfill.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-account-merge.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gnc-helpers.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/app-utils/gfec.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedger.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedgerLayout.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedgerModel.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedger.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedgerControl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedgerP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedgerLoad.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedgerDisplay.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedgerControl.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedgerLayout.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-ledger/gncEntryLedgerModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-customer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-order.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gtkbuilder/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-customer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-choose-owner.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gnc-plugin-page-owner-tree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gnc-plugin-page-invoice.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gnc-plugin-business.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gnc-plugin-page-invoice.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gnc-plugin-business.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gncmod-business-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-billterms.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-choose-owner.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-employee.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/business-gnome-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-billterms.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-vendor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-employee.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/business-urls.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-date-close.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/search-owner.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/business-urls.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-date-close.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gschemas/org.gnucash.dialogs.business.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gschemas/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/search-owner.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-job.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-job.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-invoice.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/business-gnome.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/business-gnome-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/ui/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-vendor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-payment.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-payment.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/gnc-plugin-page-owner-tree.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/business-options-gnome.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-order.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/business-options-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/business/business-gnome/dialog-invoice.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/config.h.cmake.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/test/test-gnc-glib-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/test/test-gnc-uri-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/test/test-resolve-file-path.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-guile-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-uri-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/binreloc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-path.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-environment.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/binreloc.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-features.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-environment.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-prefs.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-prefs.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-features.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-uri-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-gdate-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-jalali.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-gdate-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-prefs-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-jalali.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-locale-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-filepath-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-locale-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-gkeyfile-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-filepath-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-path.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-gkeyfile-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-glib-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-glib-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/core-utils.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/core-utils/gnc-guile-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/utility-reports/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/utility-reports/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/utility-reports/utility-reports.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/utility-reports/view-column.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/utility-reports/hello-world.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/utility-reports/gncmod-utility-reports.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/utility-reports/welcome-to-gnucash.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/jqplot/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-document.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-linechart.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/list-extras.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/eguile-utilities.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-style-sheet.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/report-utilities.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-utilities.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/gnc-report.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-text.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-acct-table.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/gnc-report.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/test/test-link-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/test/test-extras.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/report-system.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/report-collectors.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/collectors.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/commodity-utilities.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/report.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-fonts.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-table.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/eguile-html-utilities.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-jqplot.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-piechart.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-scatter.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/eguile-gnc.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/options-utilities.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-style-info.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/gncmod-report-system.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-system/html-barchart.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/dialog-custom-report.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/gnc-plugin-page-report.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/window-report.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/dialog-custom-report.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/gnc-plugin-page-report.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/test/test-link-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/report-gnome.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/dialog-report-style-sheet.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/dialog-report-column-view.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/dialog-report-style-sheet.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/dialog-report-column-view.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/gncmod-report-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/report-gnome/window-report.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/owner-report.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/fancy-invoice.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/invoice.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/receipt.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/easy-invoice.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/payables.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/balsheet-eg.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/aging.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/customer-summary.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/taxinvoice.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/receivables.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/business-reports.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/business-reports/job-report.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/stylesheet-fancy.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/gncmod-stylesheets.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/stylesheet-head-or-tail.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/stylesheets.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/stylesheet-footer.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/gnc-plugin-stylesheets.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/gnc-plugin-stylesheets.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/stylesheet-plain.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/stylesheets/stylesheet-easy.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/sx-summary.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/trial-balance.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/account-summary.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/price-scatter.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/transaction.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/income-statement.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/advanced-portfolio.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/budget-barchart.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/net-barchart.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/register.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/portfolio.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/standard-reports.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/general-ledger.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/daily-reports.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/average-balance.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/gncmod-standard-reports.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/general-journal.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/budget-flow.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/test/test-generic-net-barchart.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/test/test-generic-net-linechart.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/test/test-generic-category-report.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/equity-statement.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/net-linechart.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/category-barchart.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/account-piecharts.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/budget.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/balance-sheet.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/budget-income-statement.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/budget-balance-sheet.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/standard-reports/cash-flow.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/locale-specific/us/test/test-link-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/locale-specific/us/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/locale-specific/us/taxtxf.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/locale-specific/us/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/locale-specific/us/us.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/locale-specific/us/de_DE.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/locale-specific/us/taxtxf-de_DE.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/report/locale-specific/us/gncmod-locale-reports-us.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/table-gnome.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-item-list.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/test/test-link-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/formulacell-gnome.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/combocell-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/table-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/formulacell-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-scrolled-window.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-scrolled-window.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-sheetP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/quickfillcell-gnome.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-header.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/quickfillcell-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/datecell-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-header.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-cursor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-cursor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-sheet.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-date-picker.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-date-picker.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/pricecell-gnome.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-style.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-color.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/pricecell-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-style.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-color.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-grid.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-item-edit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-sheet.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gncmod-register-gnome.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-item-edit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-item-list.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-gnome/gnucash-grid.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/test/test-link-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/checkboxcell.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/quickfillcell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/register-common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/cell-factory.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/numcell.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/recncell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/table-model.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/register-common.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/cell-factory.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/numcell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/formulacell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/cellblock.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/recncell.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/formulacell.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/table-control.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/cellblock.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/table-control.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/table-layout.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/combocell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/table-allgui.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/pricecell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/table-layout.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/table-allgui.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/pricecell.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/gncmod-register-core.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/basiccell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/basiccell.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/datecell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/quickfillcell.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/gtable.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/table-model.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/checkboxcell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/register-core/gtable.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-model.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-model.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-layout.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-model-save.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/gncmod-ledger-core.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-control.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-model-save.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-control.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/test/test-link-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-layout.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/gnc-ledger-display.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-util.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/gnc-ledger-display.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/gnc-ledger-display2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/split-register-load.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/register/ledger-core/gnc-ledger-display2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-main-matcher.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/gnc-plugin-qif-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/qif-guess-map.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/gncmod-qif-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/gschemas/org.gnucash.dialogs.import.qif.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/gschemas/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/qif-dialog-utils.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/qif-utils.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/assistant-qif-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/test/test-link.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/dialog-account-picker.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/assistant-qif-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/dialog-account-picker.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/qif-import.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/qif-to-gnc.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/gnc-plugin-qif-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/qif-objects.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/qif-file.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/qif-parse.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif-imp/qif-merge-groups.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-parse.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-settings.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-main-matcher.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-account-matcher.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/gschemas/org.gnucash.dialogs.import.generic.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/gschemas/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/gschemas/org.gnucash.dialogs.import.ofx.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/gschemas/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/gnc-ofx-kvp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/test/test-link.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/gnc-plugin-ofx.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/gnc-ofx-kvp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/gnc-plugin-ofx.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/gncmod-ofx-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/gnc-ofx-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/ofx/gnc-ofx-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-file.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-parse.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-objects.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-file.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-objects.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-defaults.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-objects-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-context.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-import-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-defaults.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/qif/qif-parse.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-backend.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/log-replay/gnc-plugin-log-replay.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/log-replay/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/log-replay/gnc-plugin-log-replay.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/log-replay/gnc-log-replay.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/log-replay/gncmod-log-replay.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/log-replay/gnc-log-replay.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/test/test-link.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/test/test-import-parse.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-format-dialog.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-plugin-csv-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-csv-account-map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/csv-account-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-csv-account-map.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gschemas/org.gnucash.dialogs.import.csv.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gschemas/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/csv-fixed-trans-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/assistant-csv-trans-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/test/utest-gnc-csv-model.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/test/test-csv-imp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/assistant-csv-trans-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-csv-trans-settings.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/csv-fixed-trans-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/csv-account-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-csv-trans-settings.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-csv-model.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gncmod-csv-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/assistant-csv-fixed-trans-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-csv-gnumeric-popup.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-csv-model.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/assistant-csv-fixed-trans-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/assistant-csv-account-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-csv-gnumeric-popup.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/gnc-plugin-csv-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-imp/assistant-csv-account-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-transfer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-getbalance.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gschemas/org.gnucash.dialogs.import.hbci.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gschemas/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-getbalance.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/dialog-ab-daterange.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-plugin-aqbanking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/dialog-ab-trans.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-gettrans.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/assistant-ab-initial.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gncmod-aqbanking.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-gwen-gui.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-kvp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/assistant-ab-initial.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-transfer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/dialog-ab-daterange.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-kvp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-plugin-aqbanking.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-file-aqb-import.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-gwen-gui.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-ab-gettrans.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/dialog-ab-trans.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/aqb/gnc-file-aqb-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-backend.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-match-picker.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-settings.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/gncmod-generic-import.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-utilities.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-match-picker.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-parse.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-commodity-matcher.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-utilities.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-account-matcher.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/gschemas/org.gnucash.dialogs.export.csv.gschema.xml.in.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/gschemas/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/assistant-csv-export.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/gnc-plugin-csv-export.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/gnc-plugin-csv-export.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/csv-tree-export.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/csv-transactions-export.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/gncmod-csv-export.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/assistant-csv-export.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/csv-transactions-export.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/csv-exp/csv-tree-export.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/import-export/import-commodity-matcher.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/test/test-link-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/txf-help-de_DE.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/us.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/txf.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/txf-help.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/gncmod-tax-us.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/de_DE.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tax/us/txf-de_DE.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/misc-mods/agedver.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/misc-mods/incompatdep.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/misc-mods/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/misc-mods/futuremodsys.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/test-dynload.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-foo/foo.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-foo/gnc-mod-foo.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-foo/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-foo/foo.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-bar/bar.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-bar/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-bar/bar.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-bar/gnc-mod-bar.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/test-agedver.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/test-incompatdep.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-baz/baz.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-baz/baz.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-baz/gnc-mod-baz.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/mod-baz/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/test-modsysver.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/test-load-c.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/test-gwrapped-c.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/test/test-scm-module.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/gnc-module.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/gnc-module.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/gnc-module-api.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnc-module/gnc-module.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qof-gobject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofutil.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofobject.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/kvp_frame.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qoflog.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-date.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-datetime.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qof-backend.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qof-string-cache.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-date.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofclass.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofquerycore.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/kvp-value.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-numeric.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofevent.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofbook.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofquerycore.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofsession.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-int128.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofchoice.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-timezone.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofobject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-backend-prov.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-datetime.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-rational.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofinstance-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofid.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofevent-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofid.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofclass-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofbook-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofobject-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofquery-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/kvp_frame.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qof-backend.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/guid.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofevent.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-aqbanking-templates.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/kvp-value.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qof-string-cache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofinstance.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/guid.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofutil.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofbackend.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofclass.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qoflog.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofbook.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofid-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qof.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofsession.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-int128.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-date-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofquery.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofsession.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-timezone.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-numeric.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-rational.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/gnc-aqbanking-templates.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofchoice.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofquerycore-p.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofinstance.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofbookslots.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/qofquery.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/test/test-qofbook.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/test/test-qofobject.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/test/test-gnc-date.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/test/test-qof-string-cache.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/test/test-qof.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/qof/test/test-qofinstance.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libqof/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bin/overrides/gnucash-make-guids.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bin/overrides/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bin/gnucash-bin.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bin/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bin/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/pixmaps/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cmake_modules/GncFindPkgConfig.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cmake_modules/GncAddGSchemaTargets.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cmake_modules/MacroAddSourceFileCompileFlags.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cmake_modules/MacroAppendForeach.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cmake_modules/GncAddTest.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cmake_modules/GncAddSwigCommand.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cmake_modules/GncConfigure.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cmake_modules/GncAddSchemeTargets.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/doc/design/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/optional/python-bindings/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/price-quotes.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/string.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/xml-generator.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/substring-search.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/gnumeric/gnumeric-utilities.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/gnumeric/table-utils.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/gnumeric/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/printf.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/main.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scm/fin.scm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-boolean.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-int64.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-core-utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-date.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-string.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/dialog-search.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-core-type.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-numeric.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-boolean.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-double.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-core-type.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-numeric.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/dialog-search.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-date.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-string.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-account.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-account.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-double.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/gnc-general-search.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/gnc-general-search.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-reconciled.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-core-utils.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/gncmod-gnome-search.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-int64.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gnome-search/search-reconciled.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/accounts/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/stf/stf-parse.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/stf/stf-parse.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/packaging/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/doc/examples/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/doc/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-pc-linux-gnu/6.1.1/include" />
+          <root url="file:///usr/lib/gcc/x86_64-pc-linux-gnu/6.1.1/include-fixed" />
+          <root url="file:///usr/lib/gtk-2.0/include" />
+          <root url="file:///usr/lib/dbus-1.0/include" />
+          <root url="file:///usr/lib/glib-2.0/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-pc-linux-gnu/6.1.1/include" />
+          <root url="file:///usr/lib/gcc/x86_64-pc-linux-gnu/6.1.1/include-fixed" />
+          <root url="file:///usr/lib/gtk-2.0/include" />
+          <root url="file:///usr/lib/dbus-1.0/include" />
+          <root url="file:///usr/lib/glib-2.0/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/test-core/swig-unittest-support-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/report/report-gnome/swig-report-gnome.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/report/report-system/swig-report-system.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/core-utils/swig-core-utils-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnc-module/swig-gnc-module.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/engine/swig-engine.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/html/swig-gnc-html.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/app-utils/swig-app-utils-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnome/swig-gnome.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnome-utils/gnc-warnings.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Release/src/gnome-utils/swig-gnome-utils.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnome/swig-gnome.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/report/report-gnome/swig-report-gnome.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/report/report-system/swig-report-system.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/test-core/swig-unittest-support-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/core-utils/swig-core-utils-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnc-module/swig-gnc-module.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/engine/swig-engine.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/html/swig-gnc-html.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/app-utils/swig-app-utils-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnome-utils/gnc-warnings.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/Debug/src/gnome-utils/swig-gnome-utils.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/test-core/swig-unittest-support-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/report/report-gnome/swig-report-gnome.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/report/report-system/swig-report-system.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnome/swig-gnome.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/engine/swig-engine.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/core-utils/swig-core-utils-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/html/swig-gnc-html.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/app-utils/swig-app-utils-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnome-utils/gnc-warnings.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnome-utils/swig-gnome-utils.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/RelWithDebInfo/src/gnc-module/swig-gnc-module.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnome/swig-gnome.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/report/report-gnome/swig-report-gnome.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/report/report-system/swig-report-system.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/test-core/swig-unittest-support-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/core-utils/swig-core-utils-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnc-module/swig-gnc-module.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/engine/swig-engine.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/html/swig-gnc-html.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/app-utils/swig-app-utils-guile.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnome-utils/gnc-warnings.c" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/gnucash-156e29d7/156e29d7/MinSizeRel/src/gnome-utils/swig-gnome-utils.c" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>
