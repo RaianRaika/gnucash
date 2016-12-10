@@ -272,8 +272,6 @@ gnc_date_dateformat_to_string(QofDateFormat format)
         return "locale";
     case QOF_DATE_FORMAT_CUSTOM:
         return "custom";
-    case QOF_DATE_FORMAT_UNSET:
-        return "unset";
     default:
         return NULL;
     }
@@ -299,8 +297,6 @@ gnc_date_string_to_dateformat(const char* fmt_str, QofDateFormat *format)
         *format = QOF_DATE_FORMAT_LOCALE;
     else if (!strcmp(fmt_str, "custom"))
         *format = QOF_DATE_FORMAT_CUSTOM;
-    else if (!strcmp(fmt_str, "unset"))
-        *format = QOF_DATE_FORMAT_UNSET;
     else
         return TRUE;
 
@@ -568,8 +564,6 @@ const gchar *qof_date_format_get_string(QofDateFormat df)
         return "%Y-%m-%dT%H:%M:%SZ";
     case QOF_DATE_FORMAT_ISO:
         return "%Y-%m-%d";
-    case QOF_DATE_FORMAT_UNSET: // use global
-        return qof_date_format_get_string (dateFormat);
     case QOF_DATE_FORMAT_LOCALE:
     default:
         break;
@@ -590,8 +584,6 @@ const gchar *qof_date_text_format_get_string(QofDateFormat df)
         return "%Y-%m-%dT%H:%M:%SZ";
     case QOF_DATE_FORMAT_ISO:
         return "%Y-%b-%d";
-    case QOF_DATE_FORMAT_UNSET: // use global
-        return qof_date_text_format_get_string (dateFormat);
     case QOF_DATE_FORMAT_LOCALE:
     default:
         break;

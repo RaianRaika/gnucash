@@ -5,197 +5,197 @@
   </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/libqof/qof/gnc-datetime.cpp" line="96" />
-    <bookmark url="file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp" line="569" />
+    <bookmark url="file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp" line="565" />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
     <generated>
-      <config projectName="Gnucash" targetName="gncmod-register-gnome" />
-      <config projectName="Gnucash" targetName="test-lots" />
-      <config projectName="Gnucash" targetName="test-link" />
-      <config projectName="Gnucash" targetName="gncmod-test-engine" />
-      <config projectName="Gnucash" targetName="gncmod-engine" />
-      <config projectName="Gnucash" targetName="csv-exp-gschema" />
-      <config projectName="Gnucash" targetName="gncmod_futuremodsys" />
-      <config projectName="Gnucash" targetName="foo" />
-      <config projectName="Gnucash" targetName="test-load-engine" />
-      <config projectName="Gnucash" targetName="gncmod-app-utils" />
-      <config projectName="Gnucash" targetName="scm-test-core" />
-      <config projectName="Gnucash" targetName="scm-report-stylesheets-2-links" />
-      <config projectName="Gnucash" targetName="csv-imp-gschema" />
-      <config projectName="Gnucash" targetName="gncmodbaz" />
-      <config projectName="Gnucash" targetName="scm-core-utils" />
-      <config projectName="Gnucash" targetName="test-load-backend" />
-      <config projectName="Gnucash" targetName="quotes-man" />
-      <config projectName="Gnucash" targetName="gncmodbar" />
-      <config projectName="Gnucash" targetName="test-load-xml2" />
-      <config projectName="Gnucash" targetName="scm-test-report-system" />
-      <config projectName="Gnucash" targetName="gncmod-locale-reports-us" />
-      <config projectName="Gnucash" targetName="check" />
-      <config projectName="Gnucash" targetName="test-link-module-report-locale-specific-us" />
       <config projectName="Gnucash" targetName="gncmod-backend-xml" />
-      <config projectName="Gnucash" targetName="scm-standard-reports-links" />
-      <config projectName="Gnucash" targetName="scm-gnome-utils" />
-      <config projectName="Gnucash" targetName="test-column-types" />
-      <config projectName="Gnucash" targetName="po-gmo-build" />
-      <config projectName="Gnucash" targetName="gncmod-register-core" />
-      <config projectName="Gnucash" targetName="test-string-converters" />
-      <config projectName="Gnucash" targetName="po-gmo" />
-      <config projectName="Gnucash" targetName="scm-report-system" />
-      <config projectName="Gnucash" targetName="scm-business-reports" />
-      <config projectName="Gnucash" targetName="test-link-module-ledger-core" />
-      <config projectName="Gnucash" targetName="test-transaction-voiding" />
-      <config projectName="Gnucash" targetName="test-xml-commodity" />
-      <config projectName="Gnucash" targetName="gnucash-desktop" />
-      <config projectName="Gnucash" targetName="test-transaction-reversal" />
-      <config projectName="Gnucash" targetName="gncmod-tax-us" />
-      <config projectName="Gnucash" targetName="scm-gnome-utils-1" />
-      <config projectName="Gnucash" targetName="test-csv-imp" />
-      <config projectName="Gnucash" targetName="test-group-vs-book" />
-      <config projectName="Gnucash" targetName="gnc-module" />
-      <config projectName="Gnucash" targetName="scm-report-stylesheets-1-links" />
-      <config projectName="Gnucash" targetName="test-link-module-tax-us" />
-      <config projectName="Gnucash" targetName="scm-engine-1" />
       <config projectName="Gnucash" targetName="scm-engine-0" />
-      <config projectName="Gnucash" targetName="gncmod-utility-reports" />
-      <config projectName="Gnucash" targetName="gnc-backend-xml-utils" />
-      <config projectName="Gnucash" targetName="test-core" />
-      <config projectName="Gnucash" targetName="test-gnc-uri-utils" />
-      <config projectName="Gnucash" targetName="test-vendor" />
-      <config projectName="Gnucash" targetName="test-modsysver" />
-      <config projectName="Gnucash" targetName="quotes-bin" />
-      <config projectName="Gnucash" targetName="test-link-module-gnome-utils" />
-      <config projectName="Gnucash" targetName="gnucash-appdata" />
-      <config projectName="Gnucash" targetName="test-xml-account" />
-      <config projectName="Gnucash" targetName="qif-imp-gschema" />
-      <config projectName="Gnucash" targetName="gnc-qof" />
-      <config projectName="Gnucash" targetName="business-gnome-gschema" />
-      <config projectName="Gnucash" targetName="test-business" />
-      <config projectName="Gnucash" targetName="test-qof" />
-      <config projectName="Gnucash" targetName="gncmod-customer_import" />
-      <config projectName="Gnucash" targetName="scm-app-utils-3" />
-      <config projectName="Gnucash" targetName="scm-app-utils-2" />
-      <config projectName="Gnucash" targetName="scm-app-utils-1" />
-      <config projectName="Gnucash" targetName="ofx-gschema" />
-      <config projectName="Gnucash" targetName="scm-scm-0" />
-      <config projectName="Gnucash" targetName="scm-scm-1" />
-      <config projectName="Gnucash" targetName="scm-qif-import" />
-      <config projectName="Gnucash" targetName="scm-scm-3" />
-      <config projectName="Gnucash" targetName="scm-utility-reports" />
+      <config projectName="Gnucash" targetName="csv-exp-gschema" />
+      <config projectName="Gnucash" targetName="scm-engine-1" />
       <config projectName="Gnucash" targetName="test-gnc-glib-utils" />
-      <config projectName="Gnucash" targetName="test-commodities" />
-      <config projectName="Gnucash" targetName="gncmod-ledger-core" />
-      <config projectName="Gnucash" targetName="scm-test-standard-reports" />
-      <config projectName="Gnucash" targetName="test-engine" />
-      <config projectName="Gnucash" targetName="swig-gnucash-core" />
-      <config projectName="Gnucash" targetName="test-query" />
-      <config projectName="Gnucash" targetName="gncmodfoo" />
-      <config projectName="Gnucash" targetName="test-backend-dbi" />
-      <config projectName="Gnucash" targetName="scm-gnc-module" />
-      <config projectName="Gnucash" targetName="gncmod-backend-xml-link" />
-      <config projectName="Gnucash" targetName="scm-gnome-utils-2" />
-      <config projectName="Gnucash" targetName="test-date-converting" />
-      <config projectName="Gnucash" targetName="scm-report-locale-specific-1" />
-      <config projectName="Gnucash" targetName="test-dynload" />
-      <config projectName="Gnucash" targetName="gncmod-backend-dbi" />
-      <config projectName="Gnucash" targetName="scm-standard-reports-2" />
-      <config projectName="Gnucash" targetName="gncmod-csv-import" />
-      <config projectName="Gnucash" targetName="test-print-parse-amount" />
-      <config projectName="Gnucash" targetName="gncmod-backend-dbi-link" />
-      <config projectName="Gnucash" targetName="test-link-ofx" />
-      <config projectName="Gnucash" targetName="test-agedver" />
-      <config projectName="Gnucash" targetName="swig-core-utils-python" />
-      <config projectName="Gnucash" targetName="gncmod-log-replay" />
-      <config projectName="Gnucash" targetName="swig-unittest-support-python" />
-      <config projectName="Gnucash" targetName="gncmod-html" />
-      <config projectName="Gnucash" targetName="test-link-qif-imp" />
-      <config projectName="Gnucash" targetName="gnucash" />
-      <config projectName="Gnucash" targetName="gncmod_agedver" />
-      <config projectName="Gnucash" targetName="test-address" />
-      <config projectName="Gnucash" targetName="test-scm-query" />
-      <config projectName="Gnucash" targetName="scm-test-engine" />
-      <config projectName="Gnucash" targetName="test-split-vs-account" />
-      <config projectName="Gnucash" targetName="gncmod-gnome-search" />
-      <config projectName="Gnucash" targetName="test-exp-parser" />
-      <config projectName="Gnucash" targetName="gncmod-qif-import" />
-      <config projectName="Gnucash" targetName="test-link-module-report-gnome" />
-      <config projectName="Gnucash" targetName="test-link-generic-import" />
-      <config projectName="Gnucash" targetName="gnc-backend-sql" />
-      <config projectName="Gnucash" targetName="compiled-schemas" />
-      <config projectName="Gnucash" targetName="gncmod_incompatdep" />
-      <config projectName="Gnucash" targetName="scm-report-gnome" />
-      <config projectName="Gnucash" targetName="test-employee" />
-      <config projectName="Gnucash" targetName="scm-scm" />
-      <config projectName="Gnucash" targetName="scm-tax-us-1" />
-      <config projectName="Gnucash" targetName="test-dom-converters1" />
-      <config projectName="Gnucash" targetName="test-numeric" />
-      <config projectName="Gnucash" targetName="test-link-module-register-gnome" />
-      <config projectName="Gnucash" targetName="test-querynew" />
-      <config projectName="Gnucash" targetName="generic-import-gschema" />
-      <config projectName="Gnucash" targetName="scm-business-gnome" />
-      <config projectName="Gnucash" targetName="test-sqlbe" />
-      <config projectName="Gnucash" targetName="test-xml-pricedb" />
-      <config projectName="Gnucash" targetName="test-job" />
-      <config projectName="Gnucash" targetName="test-guid" />
-      <config projectName="Gnucash" targetName="scm-standard-reports-2-links" />
-      <config projectName="Gnucash" targetName="scm-gnumeric" />
-      <config projectName="Gnucash" targetName="test-scm-query-string" />
-      <config projectName="Gnucash" targetName="test-date" />
-      <config projectName="Gnucash" targetName="scm-app-utils" />
-      <config projectName="Gnucash" targetName="scm-engine" />
-      <config projectName="Gnucash" targetName="scm-report-system-3" />
-      <config projectName="Gnucash" targetName="scm-report-system-2" />
-      <config projectName="Gnucash" targetName="test-object" />
-      <config projectName="Gnucash" targetName="test-recurrence" />
-      <config projectName="Gnucash" targetName="gncmod-generic-import" />
-      <config projectName="Gnucash" targetName="test-link-module-register-core" />
-      <config projectName="Gnucash" targetName="gncmod-report-system" />
-      <config projectName="Gnucash" targetName="scm-business-reports-links" />
-      <config projectName="Gnucash" targetName="gncmod-standard-reports" />
-      <config projectName="Gnucash" targetName="scm-report-stylesheets-2" />
       <config projectName="Gnucash" targetName="scm-report-stylesheets-1" />
-      <config projectName="Gnucash" targetName="scm-scm-2" />
-      <config projectName="Gnucash" targetName="gncmod-stylesheets" />
-      <config projectName="Gnucash" targetName="gnc-gnome" />
-      <config projectName="Gnucash" targetName="test-account-object" />
-      <config projectName="Gnucash" targetName="swig-app-utils-python" />
-      <config projectName="Gnucash" targetName="gncmod-gnome-utils" />
-      <config projectName="Gnucash" targetName="aqb-gschema" />
+      <config projectName="Gnucash" targetName="scm-test-report-system" />
+      <config projectName="Gnucash" targetName="gnc-core-utils" />
+      <config projectName="Gnucash" targetName="scm-utility-reports" />
+      <config projectName="Gnucash" targetName="test-xml-pricedb" />
+      <config projectName="Gnucash" targetName="test-guid" />
+      <config projectName="Gnucash" targetName="test-gnc-uri-utils" />
+      <config projectName="Gnucash" targetName="gnome-utils-gschema" />
+      <config projectName="Gnucash" targetName="test-xml-commodity" />
+      <config projectName="Gnucash" targetName="test-core" />
+      <config projectName="Gnucash" targetName="baz" />
+      <config projectName="Gnucash" targetName="test-customer" />
+      <config projectName="Gnucash" targetName="test-xml-account" />
+      <config projectName="Gnucash" targetName="test-agedver" />
+      <config projectName="Gnucash" targetName="scm-scm" />
       <config projectName="Gnucash" targetName="test-kvp-frames" />
+      <config projectName="Gnucash" targetName="bar" />
       <config projectName="Gnucash" targetName="test-incompatdep" />
       <config projectName="Gnucash" targetName="test-link-module-report-system" />
-      <config projectName="Gnucash" targetName="test-sx" />
-      <config projectName="Gnucash" targetName="test-load-example-account" />
-      <config projectName="Gnucash" targetName="gnc-business-ledger" />
-      <config projectName="Gnucash" targetName="gncmod-csv-export" />
-      <config projectName="Gnucash" targetName="gnucash-design.texi" />
-      <config projectName="Gnucash" targetName="test-core-guile" />
-      <config projectName="Gnucash" targetName="test-link-module" />
-      <config projectName="Gnucash" targetName="test-import-parse" />
-      <config projectName="Gnucash" targetName="gnc-core-utils" />
-      <config projectName="Gnucash" targetName="gncmod-report-gnome" />
-      <config projectName="Gnucash" targetName="gnome-gschema" />
-      <config projectName="Gnucash" targetName="gncmod-aqbanking" />
-      <config projectName="Gnucash" targetName="test-load-c" />
-      <config projectName="Gnucash" targetName="test-xml-transaction" />
-      <config projectName="Gnucash" targetName="gncmod-business-gnome" />
-      <config projectName="Gnucash" targetName="scm-standard-reports" />
-      <config projectName="Gnucash" targetName="scm-report-stylesheets" />
-      <config projectName="Gnucash" targetName="gncmod-bi_import" />
-      <config projectName="Gnucash" targetName="scm-report-locale-specific-2" />
-      <config projectName="Gnucash" targetName="scm-gettext" />
+      <config projectName="Gnucash" targetName="gnc-backend-xml-utils" />
       <config projectName="Gnucash" targetName="scm-tax-us-2" />
-      <config projectName="Gnucash" targetName="test-xml2-is-file" />
+      <config projectName="Gnucash" targetName="test-transaction-voiding" />
+      <config projectName="Gnucash" targetName="scm-tax-us-1" />
+      <config projectName="Gnucash" targetName="scm-standard-reports-links" />
+      <config projectName="Gnucash" targetName="gncmod-utility-reports" />
+      <config projectName="Gnucash" targetName="gncmod-aqbanking" />
+      <config projectName="Gnucash" targetName="gncmod-tax-us" />
+      <config projectName="Gnucash" targetName="test-commodities" />
+      <config projectName="Gnucash" targetName="test-date" />
+      <config projectName="Gnucash" targetName="test-vendor" />
+      <config projectName="Gnucash" targetName="gncmod-html" />
+      <config projectName="Gnucash" targetName="gnucash-desktop" />
+      <config projectName="Gnucash" targetName="test-link-module-ledger-core" />
+      <config projectName="Gnucash" targetName="scm-app-utils-3" />
+      <config projectName="Gnucash" targetName="scm-business-reports-links" />
       <config projectName="Gnucash" targetName="scm-qif-import-2" />
-      <config projectName="Gnucash" targetName="baz" />
-      <config projectName="Gnucash" targetName="scm-utility-reports-links" />
-      <config projectName="Gnucash" targetName="gncmod-backend-xml-utils" />
-      <config projectName="Gnucash" targetName="bar" />
-      <config projectName="Gnucash" targetName="gncmod-qif" />
-      <config projectName="Gnucash" targetName="test-resolve-file-path" />
+      <config projectName="Gnucash" targetName="po-gmo-build" />
+      <config projectName="Gnucash" targetName="scm-app-utils-1" />
+      <config projectName="Gnucash" targetName="gncmod-locale-reports-us" />
+      <config projectName="Gnucash" targetName="scm-app-utils-2" />
+      <config projectName="Gnucash" targetName="scm-standard-reports" />
+      <config projectName="Gnucash" targetName="gnucash-appdata" />
       <config projectName="Gnucash" targetName="gnc-vcs-info" />
-      <config projectName="Gnucash" targetName="test-customer" />
-      <config projectName="Gnucash" targetName="gnome-utils-gschema" />
+      <config projectName="Gnucash" targetName="gncmod-report-system" />
+      <config projectName="Gnucash" targetName="gncmodfoo" />
+      <config projectName="Gnucash" targetName="gncmod-backend-dbi-link" />
+      <config projectName="Gnucash" targetName="test-load-engine" />
+      <config projectName="Gnucash" targetName="gncmod-gnome-utils" />
+      <config projectName="Gnucash" targetName="test-csv-imp" />
+      <config projectName="Gnucash" targetName="scm-core-utils" />
+      <config projectName="Gnucash" targetName="gnc-qof" />
+      <config projectName="Gnucash" targetName="test-link-generic-import" />
       <config projectName="Gnucash" targetName="gncmod-ofx" />
+      <config projectName="Gnucash" targetName="quotes-bin" />
+      <config projectName="Gnucash" targetName="test-load-example-account" />
+      <config projectName="Gnucash" targetName="test-xml2-is-file" />
+      <config projectName="Gnucash" targetName="test-xml-transaction" />
+      <config projectName="Gnucash" targetName="gnc-gnome" />
+      <config projectName="Gnucash" targetName="gncmod-stylesheets" />
+      <config projectName="Gnucash" targetName="gncmod-backend-xml-utils" />
+      <config projectName="Gnucash" targetName="test-exp-parser" />
+      <config projectName="Gnucash" targetName="gncmod-log-replay" />
+      <config projectName="Gnucash" targetName="generic-import-gschema" />
+      <config projectName="Gnucash" targetName="gncmod_incompatdep" />
+      <config projectName="Gnucash" targetName="test-print-parse-amount" />
+      <config projectName="Gnucash" targetName="ofx-gschema" />
+      <config projectName="Gnucash" targetName="test-transaction-reversal" />
+      <config projectName="Gnucash" targetName="test-modsysver" />
+      <config projectName="Gnucash" targetName="test-load-c" />
+      <config projectName="Gnucash" targetName="qif-imp-gschema" />
+      <config projectName="Gnucash" targetName="test-employee" />
+      <config projectName="Gnucash" targetName="gncmod-test-engine" />
+      <config projectName="Gnucash" targetName="test-engine" />
+      <config projectName="Gnucash" targetName="gncmod-standard-reports" />
+      <config projectName="Gnucash" targetName="test-link-module-register-gnome" />
+      <config projectName="Gnucash" targetName="scm-gettext" />
+      <config projectName="Gnucash" targetName="gncmod-ledger-core" />
+      <config projectName="Gnucash" targetName="gnucash-design.texi" />
+      <config projectName="Gnucash" targetName="scm-report-system-3" />
+      <config projectName="Gnucash" targetName="scm-report-system-2" />
+      <config projectName="Gnucash" targetName="test-resolve-file-path" />
+      <config projectName="Gnucash" targetName="test-load-backend" />
+      <config projectName="Gnucash" targetName="gncmod-engine" />
+      <config projectName="Gnucash" targetName="test-backend-dbi" />
+      <config projectName="Gnucash" targetName="test-account-object" />
+      <config projectName="Gnucash" targetName="test-link-module-tax-us" />
+      <config projectName="Gnucash" targetName="test-link" />
+      <config projectName="Gnucash" targetName="gncmod-gnome-search" />
+      <config projectName="Gnucash" targetName="scm-report-stylesheets" />
+      <config projectName="Gnucash" targetName="scm-report-stylesheets-2" />
+      <config projectName="Gnucash" targetName="gncmod_futuremodsys" />
+      <config projectName="Gnucash" targetName="test-scm-query" />
+      <config projectName="Gnucash" targetName="gncmod-qif" />
+      <config projectName="Gnucash" targetName="test-group-vs-book" />
+      <config projectName="Gnucash" targetName="gncmod-bi_import" />
+      <config projectName="Gnucash" targetName="test-link-module-report-locale-specific-us" />
+      <config projectName="Gnucash" targetName="scm-gnumeric" />
+      <config projectName="Gnucash" targetName="scm-test-core" />
+      <config projectName="Gnucash" targetName="test-sqlbe" />
+      <config projectName="Gnucash" targetName="scm-qif-import" />
+      <config projectName="Gnucash" targetName="scm-report-locale-specific-1" />
+      <config projectName="Gnucash" targetName="gncmodbar" />
+      <config projectName="Gnucash" targetName="compiled-schemas" />
+      <config projectName="Gnucash" targetName="test-import-parse" />
+      <config projectName="Gnucash" targetName="scm-report-gnome" />
+      <config projectName="Gnucash" targetName="gncmod-backend-xml-link" />
+      <config projectName="Gnucash" targetName="gncmodbaz" />
+      <config projectName="Gnucash" targetName="swig-unittest-support-python" />
+      <config projectName="Gnucash" targetName="test-job" />
+      <config projectName="Gnucash" targetName="scm-utility-reports-links" />
+      <config projectName="Gnucash" targetName="scm-engine" />
+      <config projectName="Gnucash" targetName="scm-scm-0" />
+      <config projectName="Gnucash" targetName="gnome-gschema" />
+      <config projectName="Gnucash" targetName="gncmod-generic-import" />
+      <config projectName="Gnucash" targetName="test-column-types" />
+      <config projectName="Gnucash" targetName="test-scm-query-string" />
+      <config projectName="Gnucash" targetName="gncmod-app-utils" />
+      <config projectName="Gnucash" targetName="scm-standard-reports-2-links" />
+      <config projectName="Gnucash" targetName="scm-test-standard-reports" />
+      <config projectName="Gnucash" targetName="quotes-man" />
+      <config projectName="Gnucash" targetName="gnc-business-ledger" />
+      <config projectName="Gnucash" targetName="test-lots" />
+      <config projectName="Gnucash" targetName="scm-report-locale-specific-2" />
+      <config projectName="Gnucash" targetName="gncmod-customer_import" />
+      <config projectName="Gnucash" targetName="test-link-qif-imp" />
+      <config projectName="Gnucash" targetName="gncmod-backend-dbi" />
+      <config projectName="Gnucash" targetName="scm-standard-reports-2" />
+      <config projectName="Gnucash" targetName="test-dom-converters1" />
+      <config projectName="Gnucash" targetName="scm-business-gnome" />
+      <config projectName="Gnucash" targetName="scm-scm-3" />
+      <config projectName="Gnucash" targetName="test-date-converting" />
+      <config projectName="Gnucash" targetName="scm-scm-2" />
+      <config projectName="Gnucash" targetName="scm-scm-1" />
+      <config projectName="Gnucash" targetName="scm-test-engine" />
+      <config projectName="Gnucash" targetName="test-sx" />
+      <config projectName="Gnucash" targetName="csv-imp-gschema" />
+      <config projectName="Gnucash" targetName="scm-report-stylesheets-2-links" />
+      <config projectName="Gnucash" targetName="test-link-module-register-core" />
+      <config projectName="Gnucash" targetName="scm-gnome-utils-2" />
+      <config projectName="Gnucash" targetName="gncmod-qif-import" />
+      <config projectName="Gnucash" targetName="gncmod-register-gnome" />
+      <config projectName="Gnucash" targetName="scm-gnome-utils-1" />
+      <config projectName="Gnucash" targetName="test-recurrence" />
+      <config projectName="Gnucash" targetName="aqb-gschema" />
+      <config projectName="Gnucash" targetName="test-numeric" />
+      <config projectName="Gnucash" targetName="gncmod-register-core" />
+      <config projectName="Gnucash" targetName="test-string-converters" />
+      <config projectName="Gnucash" targetName="test-querynew" />
+      <config projectName="Gnucash" targetName="foo" />
+      <config projectName="Gnucash" targetName="test-query" />
+      <config projectName="Gnucash" targetName="test-qof" />
+      <config projectName="Gnucash" targetName="test-link-module-report-gnome" />
+      <config projectName="Gnucash" targetName="scm-business-reports" />
+      <config projectName="Gnucash" targetName="scm-gnc-module" />
+      <config projectName="Gnucash" targetName="test-address" />
+      <config projectName="Gnucash" targetName="gncmod-csv-import" />
+      <config projectName="Gnucash" targetName="gnucash" />
+      <config projectName="Gnucash" targetName="gncmod_agedver" />
+      <config projectName="Gnucash" targetName="scm-report-system" />
+      <config projectName="Gnucash" targetName="test-dynload" />
+      <config projectName="Gnucash" targetName="test-load-xml2" />
+      <config projectName="Gnucash" targetName="po-gmo" />
+      <config projectName="Gnucash" targetName="swig-app-utils-python" />
+      <config projectName="Gnucash" targetName="gncmod-report-gnome" />
+      <config projectName="Gnucash" targetName="gnc-module" />
+      <config projectName="Gnucash" targetName="scm-report-stylesheets-1-links" />
+      <config projectName="Gnucash" targetName="scm-app-utils" />
+      <config projectName="Gnucash" targetName="check" />
+      <config projectName="Gnucash" targetName="test-link-ofx" />
+      <config projectName="Gnucash" targetName="gncmod-csv-export" />
+      <config projectName="Gnucash" targetName="test-split-vs-account" />
+      <config projectName="Gnucash" targetName="test-link-module" />
+      <config projectName="Gnucash" targetName="scm-gnome-utils" />
+      <config projectName="Gnucash" targetName="test-business" />
+      <config projectName="Gnucash" targetName="swig-gnucash-core" />
+      <config projectName="Gnucash" targetName="gncmod-business-gnome" />
+      <config projectName="Gnucash" targetName="gnc-backend-sql" />
+      <config projectName="Gnucash" targetName="test-object" />
+      <config projectName="Gnucash" targetName="swig-core-utils-python" />
+      <config projectName="Gnucash" targetName="test-core-guile" />
+      <config projectName="Gnucash" targetName="test-link-module-gnome-utils" />
+      <config projectName="Gnucash" targetName="business-gnome-gschema" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
@@ -205,14 +205,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a8052b7-2083-4a0a-8db2-868003e976e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/amin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gnucash.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gnome/gnc-split-reg.c" afterPath="$PROJECT_DIR$/src/gnome/gnc-split-reg.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gnucash.iml" afterPath="$PROJECT_DIR$/.idea/gnucash.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/libqof/qof/gnc-date-p.h" afterPath="$PROJECT_DIR$/src/libqof/qof/gnc-date-p.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp" afterPath="$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/libqof/qof/test/test-gnc-date.c" afterPath="$PROJECT_DIR$/src/libqof/qof/test/test-gnc-date.c" />
     </list>
     <ignored path="gnucash.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -232,7 +229,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gnc-split-reg.c" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gnc-date.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <marker date="1484731714796" expanded="true" signature="0:1751" ph="/**...*/" />
+                <marker date="1484731714796" expanded="true" signature="1799:1908" ph="..." />
+                <marker date="1484731714796" expanded="true" signature="26089:26163" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="26274:27161" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="27304:27615" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="27680:27984" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="28083:29276" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="28478:28630" ph="/.../" />
+                <marker date="1484731714796" expanded="true" signature="29362:30174" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="30354:30421" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="30423:30629" ph="/**...*/" />
+                <marker date="1484731714796" expanded="true" signature="30858:31274" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="31482:31809" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="32558:32810" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="32947:33344" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="33404:33470" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="33533:33600" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="33667:34533" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34727:34771" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34797:34884" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34924:34949" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="35143:35402" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="33506:33717" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="33756:33934" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34002:34136" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34202:34334" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34386:34523" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34573:34708" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34819:34864" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34908:34951" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="34994:35087" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="35128:35219" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="35275:35473" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="35475:35636" ph="/.../" />
+                <marker date="1484731714796" expanded="true" signature="35702:35878" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="35941:35971" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="36005:36288" ph="{...}" />
+                <marker date="1484731714796" expanded="true" signature="36077:36094" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-gnc-date.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/libqof/qof/test/test-gnc-date.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="1101" column="24" selection-start-line="1101" selection-start-column="24" selection-end-line="1101" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gnc-split-reg.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gnome/gnc-split-reg.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
@@ -309,7 +365,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/gnome/gnc-plugin-page-budget.c" />
         <option value="$PROJECT_DIR$/src/gnome/gnc-plugin-page-register2.c" />
         <option value="$PROJECT_DIR$/src/gnome/window-reconcile.c" />
         <option value="$PROJECT_DIR$/src/gnome/window-reconcile2.c" />
@@ -351,7 +406,6 @@
         <option value="$PROJECT_DIR$/src/libqof/qof/gnc-datetime.hpp" />
         <option value="$PROJECT_DIR$/src/gnome-utils/gnucash-calendar.c" />
         <option value="$PROJECT_DIR$/src/libqof/qof/gnc-timezone.hpp" />
-        <option value="$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp" />
         <option value="$PROJECT_DIR$/src/libqof/qof/gnc-datetime.cpp" />
         <option value="$PROJECT_DIR$/ChangeLog" />
         <option value="$PROJECT_DIR$/src/config.h" />
@@ -360,6 +414,8 @@
         <option value="$PROJECT_DIR$/config.h" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/gnome/gnc-split-reg.c" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp" />
+        <option value="$PROJECT_DIR$/src/libqof/qof/test/test-gnc-date.c" />
       </list>
     </option>
   </component>
@@ -458,7 +514,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="gnc-split-reg.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome/gnc-split-reg.c&#10;gnc-&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnc-vc&#9;RUN_CONFIGURATION&#9;gnc-vcs-info&#10;migratable-pref.xml&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/app-utils/migratable-prefs.xml&#10;test-extras.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/test/gnucash/engine/test/test-extras.scm&#10;test-gnc-date.c:490&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;config.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;test-gnc-date.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;configur&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/configure&#10;plat&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/platform.h&#10;config&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;gnc-datetime.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.cpp&#10;gnc-date.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnucash-calendar.c&#9;null&#9;null&#10;gnc-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnc-da&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-gdate-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.c&#10;gnc-jalali.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnu-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;gnucash-item-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-item-edit.c&#10;gnucash-date-picker.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.h&#10;gnucash-date-picker.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;datecell-gnome.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/datecell-gnome.c&#10;basiccell.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.h&#10;gnc-gnome-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.h&#10;gnc-gnome-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.c&#10;gnc-date-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-date-edit.c&#10;dialog-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-utils.c&#10;dialog-preferences.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-preferences.c&#10;gnc-gdate-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.h&#10;calendar-gregorian-lib.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-gregorian-lib.c&#10;format_masked&#9;null&#9;null&#10;CALENDAR&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;gtkCalen&#9;null&#9;null&#10;gnucash-calendar.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;basiccell.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.c&#10;gnc-datetime.hpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.hpp&#10;gnc-date.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-prefs.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-prefs.h&#10;calendar-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-lib.h&#10;calendar-jalali-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-jalali-lib.h&#10;calendar-jalali-lib.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-jalali-lib.c&#10;calendar-gregorian-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-gregorian-lib.h&#10;qof/gnc-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnucash-calendar&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.c&#10;src/core-utils/Makefile.am&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/Makefile.am&#10;src/core-utils/CMakeLists.txt&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/CMakeLists.txt&#10;migratable-prefs.xml.&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/app-utils/migratable-prefs.xml.in" />
+    <property name="SearchEverywhereHistoryKey" value="test-gnc-date.c &#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;gnc-date.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnc-split-reg.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome/gnc-split-reg.c&#10;gnc-&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnc-vc&#9;RUN_CONFIGURATION&#9;gnc-vcs-info&#10;migratable-pref.xml&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/app-utils/migratable-prefs.xml&#10;test-extras.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/test/gnucash/engine/test/test-extras.scm&#10;test-gnc-date.c:490&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;config.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;test-gnc-date.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;configur&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/configure&#10;plat&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/platform.h&#10;config&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;gnc-datetime.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.cpp&#10;gnucash-calendar.c&#9;null&#9;null&#10;gnc-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnc-da&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-gdate-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.c&#10;gnc-jalali.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnu-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;gnucash-item-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-item-edit.c&#10;gnucash-date-picker.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.h&#10;gnucash-date-picker.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;datecell-gnome.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/datecell-gnome.c&#10;basiccell.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.h&#10;gnc-gnome-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.h&#10;gnc-gnome-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.c&#10;gnc-date-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-date-edit.c&#10;dialog-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-utils.c&#10;dialog-preferences.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-preferences.c&#10;gnc-gdate-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.h&#10;calendar-gregorian-lib.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-gregorian-lib.c&#10;format_masked&#9;null&#9;null&#10;CALENDAR&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;gtkCalen&#9;null&#9;null&#10;gnucash-calendar.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;basiccell.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.c&#10;gnc-datetime.hpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.hpp&#10;gnc-date.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-prefs.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-prefs.h&#10;calendar-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-lib.h&#10;calendar-jalali-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-jalali-lib.h&#10;calendar-jalali-lib.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-jalali-lib.c&#10;calendar-gregorian-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-gregorian-lib.h&#10;qof/gnc-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnucash-calendar&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.c&#10;src/core-utils/Makefile.am&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/Makefile.am&#10;src/core-utils/CMakeLists.txt&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/CMakeLists.txt" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-patch.diff" />
@@ -1652,7 +1708,7 @@
       <workItem from="1484629919228" duration="1719000" />
       <workItem from="1484640058634" duration="5791000" />
       <workItem from="1484707925285" duration="9274000" />
-      <workItem from="1484731508635" duration="26000" />
+      <workItem from="1484731508635" duration="265000" />
     </task>
     <task id="LOCAL-00001" summary="Jalalian Calendar &#10;&#10;add Jalalian Calendar to GnuCash &#10;&#10;use preference date/time setting to switch between gregorian and Jalalian Calendar &#10;&#10;&#10;&#10;Date Picker is not available yet, &#10;unit test not available yet">
       <created>1479817629151</created>
@@ -1679,7 +1735,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="397649000" />
+    <option name="totallyTimeSpent" value="397888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1776,7 +1832,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp</url>
-          <line>606</line>
+          <line>598</line>
           <option name="timeStamp" value="581" />
         </line-breakpoint>
       </breakpoints>
@@ -1962,53 +2018,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <marker date="1484731245709" expanded="true" signature="0:1751" ph="/**...*/" />
-            <marker date="1484731245709" expanded="true" signature="1799:1908" ph="..." />
-            <marker date="1484731245709" expanded="true" signature="26435:26509" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="26620:27507" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="27650:27961" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="28026:28330" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="28429:29622" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="28824:28976" ph="/.../" />
-            <marker date="1484731245709" expanded="true" signature="29708:30520" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="30700:30767" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="30769:30975" ph="/**...*/" />
-            <marker date="1484731245709" expanded="true" signature="31204:31620" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="31828:32488" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="32558:32810" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="32947:33344" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="33404:33470" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="33533:33600" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="33667:34533" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34727:34771" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34797:34884" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34924:34949" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="35143:35402" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="33506:33717" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="33756:33934" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34002:34136" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34202:34334" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34386:34523" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34573:34708" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34819:34864" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34908:34951" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="34994:35087" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="35128:35219" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="35275:35473" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="35475:35636" ph="/.../" />
-            <marker date="1484731245709" expanded="true" signature="35702:35878" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="35941:35971" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="36005:36288" ph="{...}" />
-            <marker date="1484731245709" expanded="true" signature="36328:36440" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-datetime.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -2134,14 +2143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/libqof/qof/test/test-gnc-date.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="1113" column="21" selection-start-line="1113" selection-start-column="21" selection-end-line="1113" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -2210,6 +2211,61 @@
             <marker date="1484731541183" expanded="true" signature="32060:34534" ph="{...}" />
             <marker date="1484731541183" expanded="true" signature="34645:71275" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <marker date="1484731714796" expanded="true" signature="0:1751" ph="/**...*/" />
+            <marker date="1484731714796" expanded="true" signature="1799:1908" ph="..." />
+            <marker date="1484731714796" expanded="true" signature="26089:26163" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="26274:27161" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="27304:27615" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="27680:27984" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="28083:29276" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="28478:28630" ph="/.../" />
+            <marker date="1484731714796" expanded="true" signature="29362:30174" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="30354:30421" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="30423:30629" ph="/**...*/" />
+            <marker date="1484731714796" expanded="true" signature="30858:31274" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="31482:31809" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="32558:32810" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="32947:33344" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="33404:33470" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="33533:33600" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="33667:34533" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34727:34771" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34797:34884" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34924:34949" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="35143:35402" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="33506:33717" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="33756:33934" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34002:34136" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34202:34334" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34386:34523" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34573:34708" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34819:34864" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34908:34951" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="34994:35087" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="35128:35219" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="35275:35473" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="35475:35636" ph="/.../" />
+            <marker date="1484731714796" expanded="true" signature="35702:35878" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="35941:35971" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="36005:36288" ph="{...}" />
+            <marker date="1484731714796" expanded="true" signature="36077:36094" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libqof/qof/test/test-gnc-date.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="1101" column="24" selection-start-line="1101" selection-start-column="24" selection-end-line="1101" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
