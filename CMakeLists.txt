@@ -292,12 +292,8 @@ ENDIF (WITH_AQBANKING)
 IF (WITH_OFX)
   GNC_PKG_CHECK_MODULES (LIBOFX REQUIRED libofx)
   INCLUDE(CheckCXXSourceRuns)
-  IF (WIN32)
-      SET(CMAKE_REQUIRED_LIBRARIES "-L ${CMAKE_PREFIX_PATH}/libofx/lib -lofx")
-  ELSE (WIN32)
-      SET(CMAKE_REQUIRED_LIBRARIES "-lofx")
-  ENDIF (WIN32)
-      CHECK_CXX_SOURCE_RUNS("
+  SET(CMAKE_REQUIRED_LIBRARIES "-lofx")
+  CHECK_CXX_SOURCE_RUNS("
 #include <time.h>
 #include <stdlib.h>
 #include <string>
@@ -310,11 +306,8 @@ int main(int argc, char** argv)
     ts.tm_year = 116;
     ts.tm_mon = 2;
     ts.tm_mday = 19;
-#ifdef _WIN32
-    putenv(\"TZ=PST-8PDT-7,M 4.1.0/0,M 10.6.0/0\");
-#else
-    setenv(\"TZ\", \"PST 08P DT 07 M 4.1.0, M 10.6.0\", 1);
-#endif
+
+    setenv(\"TZ\", \"PST 08 PDT 07 M 4.1.0, M 10.6.0\", 1);
     time_t t = ofxdate_to_time_t(timestr);
     if (t == mktime(&ts))
         exit(1);

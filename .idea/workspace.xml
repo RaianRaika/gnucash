@@ -205,7 +205,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a8052b7-2083-4a0a-8db2-868003e976e4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChangeLog" afterPath="$PROJECT_DIR$/ChangeLog" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NEWS" afterPath="$PROJECT_DIR$/NEWS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configure.ac" afterPath="$PROJECT_DIR$/configure.ac" />
     </list>
     <ignored path="gnucash.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -225,202 +228,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gnc-date.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/libqof/qof/gnc-date.cpp">
+      <file leaf-file-name="configure.ac" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/configure.ac">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-              <folding>
-                <marker date="1484731825536" expanded="false" signature="1799:1907" ph="..." />
-                <marker date="1484731825536" expanded="true" signature="1799:1908" ph="..." />
-                <marker date="1484731825536" expanded="false" signature="1988:2009" ph="..." />
-                <marker date="1484731825536" expanded="false" signature="2035:2057" ph="..." />
-                <marker date="1484731825536" expanded="false" signature="2077:2169" ph="..." />
-                <marker date="1484731825536" expanded="true" signature="2503:2822" ph="..." />
-                <marker date="1484731825536" expanded="false" signature="2900:2982" ph="..." />
-                <marker date="1484731825536" expanded="true" signature="3699:3718" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="3766:3950" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="4017:4166" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="4288:4497" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="4550:4635" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="4687:5787" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="5832:6049" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="6087:6275" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="6313:6469" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="6508:6571" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="6604:6752" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="6816:6862" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="7009:7448" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="7533:8165" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="8238:8471" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="8562:8888" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="8946:9255" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="9444:10040" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="10108:10410" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="10470:10846" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="10911:11080" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="11123:11329" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="11538:11790" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="11887:12348" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="12391:12417" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="12462:12844" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="13432:13983" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="14167:14574" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="14639:15020" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="15109:15363" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="15428:15673" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="15740:16032" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="16067:16219" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="16263:16485" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="16680:16791" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="17784:25030" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="25107:25181" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="25292:26179" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="26322:26633" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="26698:27002" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="27101:28294" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="28380:29192" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="29372:29439" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="29876:30077" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="30285:30609" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="30679:30931" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="31068:31465" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="31525:31591" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="31654:31721" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="31788:32222" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="32416:32460" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="32486:32573" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="32613:32638" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="32832:33091" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="33124:33371" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="33410:33588" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="33656:33790" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="33856:33988" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="34040:34177" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="34227:34362" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="34473:34518" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="34562:34605" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="34648:34741" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="34782:34873" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="34929:35127" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="35356:35532" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="35595:35625" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="35659:35942" ph="{...}" />
-                <marker date="1484731825536" expanded="true" signature="35982:36094" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="easy-invoice.scm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/report/business-reports/easy-invoice.scm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="815" column="3" selection-start-line="815" selection-start-column="3" selection-end-line="815" selection-end-column="3" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fancy-invoice.scm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/report/business-reports/fancy-invoice.scm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="taxtxf.scm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/report/locale-specific/us/taxtxf.scm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="978" column="7" selection-start-line="978" selection-start-column="7" selection-end-line="978" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-gnc-date.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/libqof/qof/test/test-gnc-date.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="1106" column="43" selection-start-line="1106" selection-start-column="43" selection-end-line="1106" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gnc-split-reg.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gnome/gnc-split-reg.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <marker date="1484731541183" expanded="true" signature="8317:9046" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="9093:9538" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="9663:14089" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="9750:9861" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="14260:14746" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="14799:15037" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="15091:15333" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="15383:15680" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="15731:17265" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="17324:17673" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="17739:17742" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="17744:17803" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="17849:17987" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="17990:18106" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="18452:19063" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="19135:22060" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="22127:22915" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="22717:22826" ph="/.../" />
-                <marker date="1484731541183" expanded="true" signature="22981:23032" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="23034:23108" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="23165:23239" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="23306:23358" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="23360:23435" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="23493:23568" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="23636:23689" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="23691:23767" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="23826:23902" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="23972:24070" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="24072:24130" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="24193:24271" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="24342:24441" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="24443:24501" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="24564:24643" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="24715:24815" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="24817:24878" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="24943:25023" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="25025:25516" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="25585:25619" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="25684:25763" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="25765:26258" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="26329:26363" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="26430:26511" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="26513:27004" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="27076:27825" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="27893:27975" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="28048:29571" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="29641:31742" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="31285:31452" ph="/.../" />
-                <marker date="1484731541183" expanded="true" signature="31744:31796" ph="/**...*/" />
-                <marker date="1484731541183" expanded="true" signature="31872:31953" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="32060:34534" ph="{...}" />
-                <marker date="1484731541183" expanded="true" signature="34645:71275" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -439,7 +252,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/libqof/qof/qofbookslots.h" />
         <option value="$PROJECT_DIR$/src/gnome/gnc-plugin-page-register.c" />
         <option value="$PROJECT_DIR$/src/gnome-utils/gnc-date-edit.h" />
         <option value="$PROJECT_DIR$/src/gnome-utils/dialog-preferences.c" />
@@ -479,7 +291,6 @@
         <option value="$PROJECT_DIR$/src/libqof/qof/gnc-datetime.cpp" />
         <option value="$PROJECT_DIR$/ChangeLog" />
         <option value="$PROJECT_DIR$/src/config.h" />
-        <option value="$PROJECT_DIR$/configure.ac" />
         <option value="$PROJECT_DIR$/configure" />
         <option value="$PROJECT_DIR$/config.h" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -490,6 +301,8 @@
         <option value="$PROJECT_DIR$/src/report/business-reports/fancy-invoice.scm" />
         <option value="$PROJECT_DIR$/src/report/locale-specific/us/taxtxf.scm" />
         <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/configure.ac" />
       </list>
     </option>
   </component>
@@ -588,7 +401,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="README&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/README&#10;taxtxf.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/report/locale-specific/us/taxtxf.scm&#10;fancy-invoice.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/report/business-reports/fancy-invoice.scm&#10;easy-invoice.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/report/business-reports/easy-invoice.scm&#10;gnc-date.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;test-gnc-date.c &#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;gnc-split-reg.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome/gnc-split-reg.c&#10;gnc-&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnc-vc&#9;RUN_CONFIGURATION&#9;gnc-vcs-info&#10;migratable-pref.xml&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/app-utils/migratable-prefs.xml&#10;test-extras.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/test/gnucash/engine/test/test-extras.scm&#10;test-gnc-date.c:490&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;config.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;test-gnc-date.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;configur&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/configure&#10;plat&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/platform.h&#10;config&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;gnc-datetime.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.cpp&#10;gnucash-calendar.c&#9;null&#9;null&#10;gnc-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnc-da&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-gdate-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.c&#10;gnc-jalali.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnu-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;gnucash-item-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-item-edit.c&#10;gnucash-date-picker.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.h&#10;gnucash-date-picker.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;datecell-gnome.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/datecell-gnome.c&#10;basiccell.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.h&#10;gnc-gnome-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.h&#10;gnc-gnome-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.c&#10;gnc-date-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-date-edit.c&#10;dialog-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-utils.c&#10;dialog-preferences.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-preferences.c&#10;gnc-gdate-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.h&#10;calendar-gregorian-lib.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-gregorian-lib.c&#10;format_masked&#9;null&#9;null&#10;CALENDAR&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;gtkCalen&#9;null&#9;null&#10;gnucash-calendar.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;basiccell.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.c&#10;gnc-datetime.hpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.hpp&#10;gnc-date.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-prefs.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-prefs.h&#10;calendar-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-lib.h&#10;calendar-jalali-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-jalali-lib.h&#10;calendar-jalali-lib.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-jalali-lib.c&#10;calendar-gregorian-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-gregorian-lib.h" />
+    <property name="SearchEverywhereHistoryKey" value="configure.ac &#9;FILE&#9;file:///home/amin/developmentArera/gnucash/configure.ac&#10;CMakeLists.txt&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/CMakeLists.txt&#10;README&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/README&#10;taxtxf.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/report/locale-specific/us/taxtxf.scm&#10;fancy-invoice.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/report/business-reports/fancy-invoice.scm&#10;easy-invoice.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/report/business-reports/easy-invoice.scm&#10;gnc-date.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;test-gnc-date.c &#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;gnc-split-reg.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome/gnc-split-reg.c&#10;gnc-&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnc-vc&#9;RUN_CONFIGURATION&#9;gnc-vcs-info&#10;migratable-pref.xml&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/app-utils/migratable-prefs.xml&#10;test-extras.scm&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/test/gnucash/engine/test/test-extras.scm&#10;test-gnc-date.c:490&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;config.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;test-gnc-date.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/test/test-gnc-date.c&#10;configur&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/configure&#10;plat&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/platform.h&#10;config&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/config.h&#10;gnc-datetime.cpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.cpp&#10;gnucash-calendar.c&#9;null&#9;null&#10;gnc-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.cpp&#10;gnc-da&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-gdate-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.c&#10;gnc-jalali.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-jalali.c&#10;gnu-date&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;gnucash-item-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-item-edit.c&#10;gnucash-date-picker.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.h&#10;gnucash-date-picker.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-date-picker.c&#10;datecell-gnome.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/datecell-gnome.c&#10;basiccell.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.h&#10;gnc-gnome-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.h&#10;gnc-gnome-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-gnome-utils.c&#10;gnc-date-edit.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/gnc-date-edit.c&#10;dialog-utils.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-utils.c&#10;dialog-preferences.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/gnome-utils/dialog-preferences.c&#10;gnc-gdate-utils.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-gdate-utils.h&#10;calendar-gregorian-lib.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-gregorian-lib.c&#10;format_masked&#9;null&#9;null&#10;CALENDAR&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;gtkCalen&#9;null&#9;null&#10;gnucash-calendar.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-gnome/gnucash-calendar.h&#10;basiccell.c&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/register/register-core/basiccell.c&#10;gnc-datetime.hpp&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-datetime.hpp&#10;gnc-date.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/libqof/qof/gnc-date.h&#10;Recurrence&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/engine/Recurrence.c&#10;gnc-prefs.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/gnc-prefs.h&#10;calendar-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-lib.h&#10;calendar-jalali-lib.h&#9;FILE&#9;file:///home/amin/developmentArera/gnucash/src/core-utils/calendar-jalali-lib.h" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-patch.diff" />
@@ -1782,7 +1595,7 @@
       <workItem from="1484629919228" duration="1719000" />
       <workItem from="1484640058634" duration="5791000" />
       <workItem from="1484707925285" duration="9274000" />
-      <workItem from="1484731508635" duration="576000" />
+      <workItem from="1484731508635" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="Jalalian Calendar &#10;&#10;add Jalalian Calendar to GnuCash &#10;&#10;use preference date/time setting to switch between gregorian and Jalalian Calendar &#10;&#10;&#10;&#10;Date Picker is not available yet, &#10;unit test not available yet">
       <created>1479817629151</created>
@@ -1809,7 +1622,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="398199000" />
+    <option name="totallyTimeSpent" value="398318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1826,7 +1639,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25316456" sideWeight="0.44369748" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5040953" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6268908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1915,13 +1728,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/gnome-utils/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="204" column="20" selection-start-line="204" selection-start-column="20" selection-end-line="204" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/register/register-core/basiccell.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -2152,13 +1958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configure.ac">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="819" column="3" selection-start-line="819" selection-start-column="3" selection-end-line="819" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/configure">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -2385,10 +2184,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="108">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configure.ac">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="815" column="3" selection-start-line="815" selection-start-column="3" selection-end-line="815" selection-end-column="3" />
           <folding />
         </state>
       </provider>
